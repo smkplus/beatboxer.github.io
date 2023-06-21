@@ -1,4 +1,4 @@
-title = "My Hugo FixIt Site"
+title = "Beatboxer.ir"
 baseURL = "https://smkplus.github.io/BBX3.github.io/"
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "en"
