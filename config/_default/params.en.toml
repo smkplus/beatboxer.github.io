@@ -25,7 +25,7 @@
     avatarURL = ""
     avatarMenu = ""
     title = ""
-    subtitle = "From Zero to Hero, Unlock the World of Free Beats!"
+    subtitle = "Level Up Your Beatboxing Skills: Learn from the Best!"
     typeit = true
     social = true
     disclaimer = ""
@@ -35,6 +35,6 @@
 
 [social]
   Email = "smkplus3d@gmail.com"
-  Telegram = "https://t.me/smkgames"
-  GitHub = "https://github.com/smkplus"
+  Telegram = "smkgames"
+  GitHub = "smkplus"
   RSS = false

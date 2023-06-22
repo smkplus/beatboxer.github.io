@@ -3,7 +3,7 @@
 # See: https://gohugo.io/getting-started/configuration/
 # -------------------------------------------------------------------------------------
 
-title = "Hugo FixIt Blog"
+title = "Beatboxer"
 baseURL = "http://example.org/"
 theme = "FixIt"
 defaultContentLanguage = "en"

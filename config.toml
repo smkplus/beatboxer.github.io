@@ -10,6 +10,7 @@ theme = "FixIt"
 
 disqusShortname = 'yourDisqusShortname'
 
+author = "Steve Francia"
 
 [params]
   # FixIt theme version
