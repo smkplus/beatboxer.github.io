@@ -149,10 +149,10 @@
   # FixIt 0.2.14 | 新增 Giscus 评论系统设置 (https://giscus.app/)
   [page.comment.giscus]
     enable = true
-    repo = "hugo-fixit/FixIt"
-    repoId = "R_kgDOGihPtQ"
+    repo = "smkplus/beatboxer.github.io"
+    repoId = "R_kgDOJyMXgQ"
     category = "General"
-    categoryId = "DIC_kwDOGihPtc4CApHX"
+    categoryId = "DIC_kwDOJyMXgc4CXYyx"
     mapping = "title"
     strict = "0" # FixIt NEW | 0.2.18
     term = ""
