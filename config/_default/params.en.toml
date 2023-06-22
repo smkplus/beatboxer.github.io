@@ -21,11 +21,11 @@
   rss = 10
   [home.profile]
     enable = true
-    gravatarEmail = ""
-    avatarURL = "/images/avatar.png"
+    gravatarEmail = "smkplus3d@gmail.com"
+    avatarURL = ""
     avatarMenu = ""
     title = ""
-    subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+    subtitle = "From Zero to Hero, Unlock the World of Free Beats!"
     typeit = true
     social = true
     disclaimer = ""
@@ -34,14 +34,7 @@
     paginate = 6
 
 [social]
-  GitHub = "xxxx"
-  Twitter = "xxxx"
-  Instagram = "xxxx"
-  Facebook = "xxxx"
-  Telegram = "xxxx"
-  Youtubelegacy = "xxxx"
-  Email = "xxxx@xxxx.com"
-  RSS = true
-  [social.Mastodon]
-    id = "@xxxx"
-    prefix = "https://mastodon.technology/"
+  Email = "smkplus3d@gmail.com"
+  Telegram = "https://t.me/smkgames"
+  GitHub = "https://github.com/smkplus"
+  RSS = false

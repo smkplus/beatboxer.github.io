@@ -89,7 +89,7 @@ disableThemeInject = false
     # URL of the LOGO
     logo = "/fixit.min.svg"
     # title name
-    name = "Hugo FixIt Blog"
+    name = "Beatboxer.ir"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
@@ -726,7 +726,7 @@ disableThemeInject = false
   # FixIt 0.2.18 | NEW Depends on the author's email, if the author's email is not set, the local avatar will be used
   enable = true
   # Gravatar host, default: "www.gravatar.com"
-  host = "gravatar.loli.net" # ["cn.gravatar.com", "gravatar.loli.net", ...]
+  host = "gravatar.com" # ["cn.gravatar.com", "gravatar.loli.net", ...]
   style = "" # ["", "mp", "identicon", "monsterid", "wavatar", "retro", "blank", "robohash"]
 
 # FixIt 0.2.16 | NEW Back to top

@@ -64,5 +64,5 @@ description = "Hugo 主题 - FixIt"
 
 [gravatar]
   enable = true
-  host = "gravatar.loli.net"
+  host = "https://s.gravatar.com/avatar"
   style = "mp"
