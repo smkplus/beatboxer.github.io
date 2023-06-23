@@ -7,7 +7,7 @@
   identifier = "Technical"
   name = "Technical"
   url = "/categories/Technical/"
-  title = "Theme Documentation"
+  title = "Technical"
   weight = 1
   [main.params]
     icon = "fa-solid fa-book"

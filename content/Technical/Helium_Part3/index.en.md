@@ -27,7 +27,7 @@ toc:
 menu:
   main:
     title: Helium Technical Pattern Part 3
-    parent: documentation
+    parent: Technical
     weight: 2
     params:
       icon: fa-brands fa-readme

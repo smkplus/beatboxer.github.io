@@ -3,8 +3,6 @@ weight: 2
 title: Helium Technical Pattern Part 1
 date: 2023-02-23T16:04:22+08:00
 type: posts
-aliases:
-  - /theme-documentation-basics/
 author:
   name: Seyed Morteza Kamali
   link: https://github.com/smkplus
@@ -27,7 +25,7 @@ toc:
 menu:
   main:
     title: Helium Technical Pattern Part 1
-    parent: documentation
+    parent: Technical
     weight: 2
     params:
       icon: fa-brands fa-readme

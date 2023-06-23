@@ -3,8 +3,6 @@ weight: 2
 title: CJ Technical Patterns
 date: 2023-02-23T16:04:22+08:00
 type: posts
-aliases:
-  - /theme-documentation-basics/
 author:
   name: Seyed Morteza Kamali
   link: https://github.com/smkplus
@@ -26,7 +24,7 @@ toc:
 menu:
   main:
     title: Technical Pattern Tutorial.
-    parent: documentation
+    parent: Technical
     weight: 2
     params:
       icon: fa-brands fa-readme
