@@ -8,14 +8,14 @@ aliases:
 author:
   name: Seyed Morteza Kamali
   link: https://github.com/smkplus
-description: Technical Pattern Tutorial.
+description: Beatbox Application
 resources:
   - name: featured-image
     src: featured-image.png
 tags:
   - Application
 categories:
-  - Patterns
+  - Application
 lightgallery: true
 reward: true
 toc:
