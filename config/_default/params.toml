@@ -6,7 +6,7 @@
 # FixIt 0.2.15 | CHANGED FixIt theme version
 version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
 # site description
-description = "This is my new Hugo FixIt site"
+description = "Level Up Your Beatboxing Skills!"
 # site keywords
 keywords = ["Hugo", "FixIt"]
 # site default theme ["light", "dark", "auto"]
@@ -194,7 +194,7 @@ disableThemeInject = false
     # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
     title = ""
     # subtitle shown in home page
-    subtitle = "This is my new Hugo FixIt site"
+    subtitle = "Level Up Your Beatboxing Skills!"
     # whether to use typeit animation for subtitle
     typeit = true
     # whether to show social links
