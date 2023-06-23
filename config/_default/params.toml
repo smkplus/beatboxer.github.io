@@ -693,7 +693,7 @@ disableThemeInject = false
 
 # FixIt 0.2.7 | NEW Cookie consent config
 [cookieconsent]
-  enable = true
+  enable = false
   # text strings used for Cookie consent banner
   [cookieconsent.content]
     message = ""
