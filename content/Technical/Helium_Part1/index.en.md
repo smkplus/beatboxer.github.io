@@ -1,12 +1,12 @@
 ---
 weight: 2
-title: Helium Technical Pattern Part1
+title: Helium Technical Pattern Part 1
 date: 2023-02-23T16:04:22+08:00
 type: posts
 aliases:
   - /theme-documentation-basics/
 author:
-  name: Seyed Morteza kamali
+  name: Seyed Morteza Kamali
   link: https://github.com/smkplus
 description: Technical Pattern Tutorial.
 resources:
@@ -15,16 +15,18 @@ resources:
 tags:
   - Technical
   - Pattern
-  - Helium Part1
+  - Helium
 categories:
   - Patterns
+  - Technical
+
 lightgallery: true
 reward: true
 toc:
   auto: false
 menu:
   main:
-    title: Helium Technical Pattern Part1.
+    title: Helium Technical Pattern Part 1
     parent: documentation
     weight: 2
     params:

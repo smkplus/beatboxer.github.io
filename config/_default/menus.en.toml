@@ -4,9 +4,9 @@
 # -------------------------------------------------------------------------------------
 
 [[main]]
-  identifier = "documentation"
-  name = "Docs"
-  url = "/categories/documentation/"
+  identifier = "Technical"
+  name = "Technical"
+  url = "/categories/Technical/"
   title = "Theme Documentation"
   weight = 1
   [main.params]
@@ -39,7 +39,7 @@
 [[main]]
   identifier = "github"
   pre = "<i class='fa-brands fa-github fa-fw' aria-hidden='true'></i>"
-  url = "https://github.com/hugo-fixit/FixIt"
+  url = "https://github.com/smkplus/beatboxer.github.io"
   title = "GitHub"
   weight = 100
   [main.params]

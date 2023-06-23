@@ -1,12 +1,12 @@
 ---
 weight: 2
-title: Technical Patterns
+title: CJ Technical Patterns
 date: 2023-02-23T16:04:22+08:00
 type: posts
 aliases:
   - /theme-documentation-basics/
 author:
-  name: Seyed Morteza kamali
+  name: Seyed Morteza Kamali
   link: https://github.com/smkplus
 description: Technical Pattern Tutorial.
 resources:
@@ -18,6 +18,7 @@ tags:
   - CJ
 categories:
   - Patterns
+  - Technical
 lightgallery: true
 reward: true
 toc:

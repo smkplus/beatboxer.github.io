@@ -18,14 +18,14 @@
   # 版权描述，仅用于 SEO
   copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
-[zh-cn]
+[fa]
   weight = 2
   # language code, only CN capitalized here
   # 网站语言, 仅在这里 CN 大写
-  languageCode = "zh-CN"
+  languageCode = "fa"
   # language name
   # 语言名称
-  languageName = "简体中文"
+  languageName = "Persian"
   # whether to include Chinese/Japanese/Korean
   # 是否包括中日韩文字
   hasCJKLanguage = true
