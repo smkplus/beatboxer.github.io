@@ -34,56 +34,62 @@ menu:
 ---
 
 ### Pattern 40
-b tt kch t pf kch t b kch peh
+ps pf k kch pf kch b kch pf k kch pf kch b kch pf k kch pf kch b kch pf kch kch
 
 {{< music url="patterns/Helium/40.mp3" name="Pattern 40" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 41
-ps pf b kch kch pf kch kch b kch pf
+b t(t) pf b t(t) fft(t) pf
 
 {{< music url="patterns/Helium/41.mp3" name="Pattern 41" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 42
-b kch kch pf kch kch b kch pf
+b t(t) pf db t(t) bbt(t) pf
 
 {{< music url="patterns/Helium/42.mp3" name="Pattern 42" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 43
-ps pf kch t kch b kch pf kch t kch b kch
+bt kch pf t kch peh kch b kch pf kch peh kch b kch peh kch pf t kch peh kch b kch pf kch peh kch
 
 {{< music url="patterns/Helium/43.mp3" name="Pattern 43" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 44
-b kch t kch t pf kch t kch b
+b t kch pf t kch peh kch b kch peh kch pf t kch b kch pf t kch peh kch b kch peh kch pf
 
 {{< music url="patterns/Helium/44.mp3" name="Pattern 44" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 45
-ps d b kch ps d b kch pf kch
+b iv f iv pf iv f ivo iv biv pf iv f iv
 
 {{< music url="patterns/Helium/45.mp3" name="Pattern 45" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 46
-b kch kch b kch pf kch kch b
+ps dbt(t) ps dbt(t) b t(t) pf db(t)t pf
+
+db k kch peh kch b kch
 
 {{< music url="patterns/Helium/46.mp3" name="Pattern 46" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 47
-ps pf b kch kch b kch pf kch
+ps d bdb kch ps d bdb kch peh kch b kch pf
+
+d bdb kch pf d bdb kch peh kch b kch
 
 {{< music url="patterns/Helium/47.mp3" name="Pattern 47" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 48
-ps pf b kch kch b kch pf kch
+b t(t) pf dbt(t) pf dbt(t)
 
 {{< music url="patterns/Helium/48.mp3" name="Pattern 48" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 49
-b kch kch b kch pf kch kch b
+bk kch peh kch bk kch pfk kch peh kch (bk kch peh kch b kch peh kch pfk kch peh kch) x 3 b kch
 
 {{< music url="patterns/Helium/49.mp3" name="Pattern 49" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
 ### Pattern 50
-ps d b kch ps d b kch pf kch
+ps tft(t) ps tft(t) pf d b k kch peh kch t
+
+kch b kch pf d b k kch peh kch
 
 {{< music url="patterns/Helium/50.mp3" name="Pattern 50" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
