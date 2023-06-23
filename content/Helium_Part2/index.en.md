@@ -32,58 +32,77 @@ menu:
 ---
 
 
+### Pattern 16
+bt kch b t(t) ft kch ft(t)
 
-### Pattern 40
-b tt kch t pf kch t b kch peh
+{{< music url="patterns/Helium/16.mp3" name="Pattern 16" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/40.mp3" name="Pattern 40" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 17
+bt kch b t(t) b t kch b t(t)
 
-### Pattern 41
-ps pf b kch kch pf kch kch b kch pf
+{{< music url="patterns/Helium/17.mp3" name="Pattern 17" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/41.mp3" name="Pattern 41" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 18
+b ft(t) b kch t ft(t) b kch f t kch
 
-### Pattern 42
-b kch kch pf kch kch b kch pf
+{{< music url="patterns/Helium/18.mp3" name="Pattern 18" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/42.mp3" name="Pattern 42" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 19
+b k kch d of k kch d f k kch d pf k kch d
 
-### Pattern 43
-ps pf kch t kch b kch pf kch t kch b kch
+{{< music url="patterns/Helium/19.mp3" name="Pattern 19" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/43.mp3" name="Pattern 43" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 20
+b t kch b kch b t pf kch
 
-### Pattern 44
-b kch t kch t pf kch t kch b
+{{< music url="patterns/Helium/20.mp3" name="Pattern 20" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/44.mp3" name="Pattern 44" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 21
+b kch b t kch b t pf kch
 
-### Pattern 45
-ps d b kch ps d b kch pf kch
+{{< music url="patterns/Helium/21.mp3" name="Pattern 21" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/45.mp3" name="Pattern 45" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 22
+ps d b kch ps d b kch ps pf kch
 
-### Pattern 46
-b kch kch b kch pf kch kch b
+{{< music url="patterns/Helium/22.mp3" name="Pattern 22" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/46.mp3" name="Pattern 46" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 23
+ps d b kch t ps d b kch ps pf kch t
 
-### Pattern 47
-ps pf b kch kch b kch pf kch
+{{< music url="patterns/Helium/23.mp3" name="Pattern 23" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/47.mp3" name="Pattern 47" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 24
+ps pf b kch t kch b kch t pf kch
 
-### Pattern 48
-ps pf b kch kch b kch pf kch
+{{< music url="patterns/Helium/24.mp3" name="Pattern 24" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/48.mp3" name="Pattern 48" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 25
+ps pf b kch kch b kch kch pf kch
 
-### Pattern 49
-b kch kch b kch pf kch kch b
+{{< music url="patterns/Helium/25.mp3" name="Pattern 25" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/49.mp3" name="Pattern 49" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 26
+ps pf b kch t kch b kch t pf kch
 
-### Pattern 50
-ps d b kch ps d b kch pf kch
+{{< music url="patterns/Helium/26.mp3" name="Pattern 26" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
 
-{{< music url="patterns/Helium/50.mp3" name="Pattern 50" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+### Pattern 27
+ps pf b kch kch b kch kch pf kch
+
+{{< music url="patterns/Helium/27.mp3" name="Pattern 27" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+
+### Pattern 28
+ps pf b kch t kch b kch t pf kch
+
+{{< music url="patterns/Helium/28.mp3" name="Pattern 28" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+
+### Pattern 29
+ps pf b kch kch b kch kch pf kch
+
+{{< music url="patterns/Helium/29.mp3" name="Pattern 29" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+
+### Pattern 30
+b t(t) pf t b t(t) b pf t(t)
+
+{{< music url="patterns/Helium/30.mp3" name="Pattern 30" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
