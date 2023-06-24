@@ -8,12 +8,13 @@ aliases:
 author:
   name: Seyed Morteza Kamali
   link: https://github.com/smkplus
-description: Beatbox Application
+description: Iran Beatbox Community
 resources:
   - name: featured-image
     src: featured-image.png
 tags:
   - Iran Beatbox
+  - Persian Beatbox
   - Beatbox
 categories:
   - Beatbox
