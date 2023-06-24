@@ -87,7 +87,7 @@ disableThemeInject = false
   # FixIt 0.2.0 | NEW Header title config
   [header.title]
     # URL of the LOGO
-    logo = "/fixit.min.svg"
+    logo = "/icon.svg"
     # title name
     name = "Beatboxer.ir"
     # you can add extra information before the name (HTML format is supported), such as icons
