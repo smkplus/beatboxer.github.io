@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: 14 Advanced Patterns
-date: 2023-01-23T16:04:22+08:00
+date: 2023-06-20T16:04:22+08:00
 type: posts
 aliases:
   - /theme-documentation-basics/
@@ -17,6 +17,7 @@ tags:
   - Pattern
 categories:
   - Patterns
+  - Technical
 lightgallery: true
 reward: true
 toc:

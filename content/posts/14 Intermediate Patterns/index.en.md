@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: 14 Intermediate Patterns
-date: 2023-01-23T16:04:22+08:00
+date: 2023-06-21T16:04:22+08:00
 type: posts
 aliases:
   - /theme-documentation-basics/
@@ -16,6 +16,7 @@ tags:
   - Technical
   - Pattern
 categories:
+  - Technical
   - Patterns
 lightgallery: true
 reward: true

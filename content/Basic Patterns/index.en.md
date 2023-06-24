@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: Basic Patterns
-date: 2023-02-23T16:04:22+08:00
+date: 2023-06-22T16:04:22+08:00
 type: posts
 aliases:
   - /theme-documentation-basics/
