@@ -22,8 +22,8 @@ toc:
   auto: false
 menu:
   main:
-    title: Technical Pattern Tutorial.
-    parent: Technical
+    title: Sounds
+    parent: Sounds
     weight: 2
     params:
       icon: fa-brands fa-readme
@@ -50,6 +50,7 @@ menu:
 | Hollow Whistle      | {{< audio src="sounds/whistles/hollow-whistle.mp3" >}}         |
 | Tongue Flute      | {{< audio src="sounds/whistles/tongue-flute.mp3" >}}         |
 | Cyclone Whistle| {{< audio src="sounds/whistles/cyclone-whistle.mp3" >}}         |
+
 
 
 
@@ -174,24 +175,26 @@ menu:
 
 
 
+
+
+
+
+
+
+
 |      Snare       |          |
 |------------------|----------|
-| Two H Snare      |          |
+| Two H Snare      | {{< audio src="sounds/snare/two-h-snare.mp3" >}}          |
 | Beat Rhino Snare |          |
-| Cough Snare      |          |
+| Cough Snare      | {{< audio src="sounds/snare/cough-snare.mp3" >}}         |
 | BMG Snare        |          |
 | Triple BMG Snare |          |
-| Inward K Snare   |          |
+| Inward K Snare   | {{< audio src="sounds/snare/k-snare.mp3" >}}         |
 | Multi Snare      |          |
 | Vocalized Inward K Snare |   |
 | Outward K Snare  |          |
-
-
-
-|       Snare        |          |
-|--------------------|----------|
 | Inward Roto Snare  |          |
-| K Rimshot          |          |
+| Rimshot          | {{< audio src="sounds/snare/rim-shot.mp3" >}}         |
 | PH Snare           |          |
 | CL Snare           |          |
 | Inward Hollow Snare|          |
@@ -209,7 +212,7 @@ menu:
 | Helium K Snare     |          |
 | Multi Spit Snare   |          |
 | PSH Snare          |          |
-| POH Snare          |          |
+| POH Snare          | {{< audio src="sounds/snare/poh-snare.mp3" >}}         |
 | Outward Rimshot    |          |
 | Classic Snare      |          |
 | Kenny Muhammed Snare |        |
@@ -226,10 +229,10 @@ menu:
 | Tongue Bass Snare  |          |
 | Blade Snare        |          |
 | Mad Clop Snare     |          |
-| Mad Cough Snare    |          |
+| Mad Cough Snare    | {{< audio src="sounds/snare/mad-cough-snare.mp3" >}}         |
 | Mad TF Snare       |          |
 | Reverse Snare      |          |
-| FISH Snare         |          |
+| Fish Snare         | {{< audio src="sounds/snare/fish-snare.mp3" >}}         |
 
 
 
@@ -251,4 +254,60 @@ menu:
 | Double Click           |          |
 | Click                  |          |
 | Fast Click             |          |
+
+
+|      Other Sounds     |          |
+|-----------------------|----------|
+| Double Voice          |          |
+| Inward Double Voice   |          |
+| Polyphonic Voice      | {{< audio src="sounds/others/polyphonic.mp3" >}}            |
+| Robot Voice           |          |
+| Zipper                |          |
+| D-Low Zipper          |          |
+| Helium Zipper         |          |
+| Meow Squeak           |          |
+| Meow Squeak Roll      |          |
+| Hutch Squeak          |          |
+| D-Low Squeak          |          |
+| Siren                 |          |
+| Siren Roll            |          |
+| Two H Siren           |          |
+| Vocal Roll            |          |
+| Lip Roll              |          |
+| Inward Lip Roll       |          |
+| Reverse Lip Roll      |          |
+| Vocalized Lip Roll    |          |
+| Hollow Lip Roll       |          |
+| Hollow Lip Roll Combos|          |
+| Laser Lip Roll        |          |
+| Teeth Lip Roll        |          |
+| Lip Roll Drags        |          |
+| Tongue Lip Roll       |          |
+| Inward Tongue Roll    |          |
+| Slizzer Roll          |          |
+| Skiller Roll          |          |
+| Backspin Roll         |          |
+| Dubstep Roll          |          |
+| Bubble Roll           |          |
+| Mad Wobble Roll       |          |
+| Inward Drag           |          |
+| Water Drop            | {{< audio src="sounds/others/water-drop.mp3" >}}         |
+| Dharni Water Drop     |          |
+| Pancar Motoru Sound   |          |
+| Dımbıllan Sound       |          |
+| Dıdıdış Sound         |          |
+| Reverse Sound         |          |
+| Sega Sound            |          |
+| Throat Tapping Sound  |          |
+| O Synth              |   {{< audio src="sounds/others/o-synth.mp3" >}}        |
+| Clown Horn            |          |
+| Baby Voice            |          |
+| Donald Duck Sound     |          |
+| Machine Gun Sound     |          |
+| Cricket Sound         |          |
+| Shimmer               |          |
+| Pash Laser Sound      | {{< audio src="sounds/others/pash-laser.mp3" >}}         |
+| Inward Chant          |          |
+| 626 Effect            |          |
+| Pacmax Train Sound    |          |
 
