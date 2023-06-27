@@ -159,19 +159,20 @@ menu:
 
 
 
+
+
+
+
+
 |     Instruments     |          |
 |---------------------|----------|
-| Trumpet             |          |
-| Helium Trumpet      |          |
-| Modulated Trumpet   |          |
-| Pizzicato Strings   |          |
-| Electric Guitar     |          |
-| Saxophone           |          |
-| Violin              |          |
-| Flute               |          |
-| Harmonica           |          |
-| MB14 / Dharni's gauteng |       |
-| Clarinet Sound      |          |
+| Trumpet / Trombone  | {{< audio src="sounds/instrument/trumpet-trombone.mp3" >}}         |
+| Helium Trumpet      | {{< audio src="sounds/instrument/helium-trumpet.mp3" >}}         |
+| Electric Guitar     | {{< audio src="sounds/instrument/electric-guitar.mp3" >}}         |
+| Saxophone           | {{< audio src="sounds/instrument/saxophone.mp3" >}}         |
+| Chinese Instrument | {{< audio src="sounds/instrument/chinese-Instrument.mp3" >}}      |
+| Violin              | {{< audio src="sounds/instrument/violin.mp3" >}}         |
+| Pizzicato Strings   | {{< audio src="sounds/instrument/pızzıcato-strıngs.mp3" >}}         |
 
 
 
