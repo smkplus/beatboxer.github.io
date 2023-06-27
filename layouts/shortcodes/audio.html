@@ -1,0 +1,119 @@
+{{ $caption := .Get "caption" -}}
+{{ $class := .Get "class" -}}
+{{ $preload := .Get "preload" | default "metadata" -}}
+{{ $src := .Get "src" -}}
+
+{{ $resource := false -}}
+{{ $static := false -}}
+{{ $type := false -}}
+
+{{ if and $src (fileExists (path.Join "/static" $src)) -}}
+  {{ $static = true -}}
+  {{ $src = relURL $src -}}
+{{ else if $src -}}
+  {{ $src = strings.TrimLeft "/" $src -}}
+  {{ with resources.Get $src -}}
+    {{ $resource = . -}}
+  {{ end -}}
+  {{ with .Page.Resources.Get $src -}}
+    {{ $resource = . -}}
+  {{ end -}}
+{{ end -}}
+
+{{ if $resource -}}
+  {{ $src = $resource.RelPermalink -}}
+  {{ $type = $resource.MediaType }}
+{{ end -}}
+
+{{ if not $src -}}
+{{ warnf "%s shortcode number %d in \"content/%s\" is missing the \"src\" attribute." .Name .Ordinal .Page.File.Path -}}
+{{ else if not (or $static $resource) -}}
+{{ warnf "%s shortcode number %d in \"content/%s\" has an error in the \"src\" attribute." .Name .Ordinal .Page.File.Path -}}
+{{ end -}}
+
+<style>
+.audio-wrapper {
+  position: relative;
+}
+
+.audio-wrapper audio {
+  display: none;
+}
+
+.audio-wrapper .play-icon,
+.audio-wrapper .pause-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 30px;
+  height: 30px;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.audio-wrapper .play-icon {
+  background-image: url("/play.png");
+}
+
+.audio-wrapper .pause-icon {
+  background-image: url("/pause.png");
+}
+
+.audio-wrapper .play-icon.hidden,
+.audio-wrapper .pause-icon.hidden {
+  display: none;
+}
+</style>
+
+<div class="audio-wrapper">
+  <audio id="audioPlayer{{ .Ordinal }}" preload="{{ $preload }}" onended="audioEnded({{ .Ordinal }})">
+    <source src="{{ $src }}" {{ with $type }}type="{{ . }}"{{ end }}>
+  </audio>
+  <div class="play-icon" id="playIcon{{ .Ordinal }}" onclick="toggleAudio({{ .Ordinal }})"></div>
+  <div class="pause-icon hidden" id="pauseIcon{{ .Ordinal }}" onclick="toggleAudio({{ .Ordinal }})"></div>
+</div>
+
+{{ with $caption -}}
+<figcaption>{{ . | markdownify }}</figcaption>
+{{ end }}
+
+<script>
+var currentAudio = null;
+
+function toggleAudio(index) {
+  var audio = document.getElementById("audioPlayer" + index);
+  var playIcon = document.getElementById("playIcon" + index);
+  var pauseIcon = document.getElementById("pauseIcon" + index);
+
+  if (currentAudio && currentAudio !== audio) {
+    currentAudio.pause();
+    var currentPlayIcon = document.getElementById("playIcon" + currentAudio.id.replace("audioPlayer", ""));
+    var currentPauseIcon = document.getElementById("pauseIcon" + currentAudio.id.replace("audioPlayer", ""));
+    currentPlayIcon.classList.remove("hidden");
+    currentPauseIcon.classList.add("hidden");
+  }
+
+  if (audio.paused) {
+    audio.currentTime = 0; // Start from the beginning
+    audio.play();
+    playIcon.classList.add("hidden");
+    pauseIcon.classList.remove("hidden");
+    currentAudio = audio;
+  } else {
+    audio.pause();
+    playIcon.classList.remove("hidden");
+    pauseIcon.classList.add("hidden");
+    currentAudio = null;
+  }
+}
+
+function audioEnded(index) {
+  var playIcon = document.getElementById("playIcon" + index);
+  var pauseIcon = document.getElementById("pauseIcon" + index);
+  
+  playIcon.classList.remove("hidden");
+  pauseIcon.classList.add("hidden");
+  currentAudio = null;
+}
+</script>
