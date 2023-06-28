@@ -116,6 +116,39 @@ menu:
 | Air Bass             |          |
 | Slizzer Bass         |          |
 
+|      Basses     |          |
+|-----------------------|----------|
+| Throat Bass           | {{< audio src="sounds/basses/throat-bass.mp3" >}} |
+| Vocal Lip Oscillation | {{< audio src="sounds/basses/vocal-lip-oscillation.mp3" >}} |
+| Inward Bass           | {{< audio src="sounds/basses/inward-bass.mp3" >}} |
+| Click Roll            | {{< audio src="sounds/basses/click-roll.mp3" >}} |
+| Click Roll (Sub Bass) | {{< audio src="sounds/basses/click-roll-sub-bass.mp3" >}} |
+| High Octave Vibration Bass | {{< audio src="sounds/basses/high-octave-vibration-bass.mp3" >}} |
+| LipRoll Bass (Top Lip) | {{< audio src="sounds/basses/liproll-bass-top-lip.mp3" >}} |
+| LipRoll Bass (Bottom Lip) | {{< audio src="sounds/basses/liproll-bass-bottom-lip.mp3" >}} |
+| LipRoll Sub Bass      | {{< audio src="sounds/basses/liproll-sub-bass.mp3" >}} |
+| Lazer Bass            | {{< audio src="sounds/basses/lazer-bass.mp3" >}} |
+| Chest Bass            | {{< audio src="sounds/basses/chest-bass.mp3" >}} |
+| Inward Chest Bass     | {{< audio src="sounds/basses/inward-chest-bass.mp3" >}} |
+| Chest Bass (Falsetto) | {{< audio src="sounds/basses/chest-bass-falsetto.mp3" >}} |
+| Vocal Chest Bass (Trumpet) | {{< audio src="sounds/basses/vocal-chest-bass-trumpet.mp3" >}} |
+| 808 Kick Bass (Outward Sub Bass) | {{< audio src="sounds/basses/808-kick-bass-outward-sub-bass.mp3" >}} |
+| Cyclone LipRoll       | {{< audio src="sounds/basses/cyclone-liproll.mp3" >}} |
+| Od Bass (Least Bassy Bass XD) | {{< audio src="sounds/basses/od-bass-least-bassy-bass.mp3" >}} |
+| Lip Oscillation       | {{< audio src="sounds/basses/lip-oscillation.mp3" >}} |
+| Tongue Bass (Middle)  | {{< audio src="sounds/basses/tongue-bass-middle.mp3" >}} |
+| Tongue Bass (Side)    | {{< audio src="sounds/basses/tongue-bass-side.mp3" >}} |
+| Drill Bass            | {{< audio src="sounds/basses/drill-bass.mp3" >}} |
+| Overtone Tongue Bass  | {{< audio src="sounds/basses/overtone-tongue-bass.mp3" >}} |
+| Whistle Bass (Esh)    | {{< audio src="sounds/basses/whistle-bass-esh.mp3" >}} |
+| Static Bass           | {{< audio src="sounds/basses/static-bass.mp3" >}} |
+| Slizzer Bass          | {{< audio src="sounds/basses/slizzer-bass.mp3" >}} |
+| Lip Bass              | {{< audio src="sounds/basses/lip-bass.mp3" >}} |
+| Top Lip (Fart) Bass   | {{< audio src="sounds/basses/top-lip-fart-bass.mp3" >}} |
+| Hollow Lip Bass      | {{< audio src="sounds/basses/hollow-lip-bass.mp3" >}} |
+| Hollow LipRoll Bass   | {{< audio src="sounds/basses/hollow-liproll-bass.mp3" >}} |
+| Electro Bass          | {{< audio src="sounds/basses/electro-bass.mp3" >}} |
+
 
 
 
