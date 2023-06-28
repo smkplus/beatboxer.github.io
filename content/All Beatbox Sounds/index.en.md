@@ -53,69 +53,6 @@ menu:
 
 
 
-
-|        Bass          |          |
-|----------------------|----------|
-| OD Bass (Dry kick roll) |          |
-| Inward OD Bass       |          |
-| Villain OD Bass      |          |
-| Amit OD Bass         |          |
-| Wob Wob Bass         |          |
-| Wobble Bass          |          |
-| Throat Bass          |          |
-| Inward Bass          |          |
-| Two H Inward Bass    |          |
-| Lip Bass             |          |
-| Double Bass          |          |
-| Acid Bass            |          |
-| Tongue Bass          |          |
-| Primal Fear Tongue Bass |       |
-| Sub Bass             |          |
-| Fart Bass            |          |
-| Starsky Bass         |          |
-| Vocal Bass           |          |
-| Liquid Bass          |          |
-| Alien Bass           |          |
-| Vibration Bass       |          |
-| Evil Bass            |          |
-| Chest Bass           |          |
-| Vocalized Chest Bass |          |
-| Dubstep Bass         |          |
-| Heavy Bass           |          |
-| Outward Sub Bass     |          |
-| Demon Bass           |          |
-| High Bass            |          |
-| Frog Bass            |          |
-| Pig Bass             |          |
-| Snore Bass           |          |
-| Swallow Bass         |          |
-| Electro Vocal Bass   |          |
-| Tongue Bass Combo    |          |
-| Two H Tongue Bass    |          |
-| Tongue Bass Behind Teeth |       |
-| Lip Wob Wob Bass     |          |
-| Inward Bass Click Roll |         |
-| 808 Bass Drum        |          |
-| Siren Bass           |          |
-| Alarm Bass           |          |
-| Hollow Lip Bass      |          |
-| Inward Fry Bass      |          |
-| Whistle Bass         |          |
-| Yoi Bass             |          |
-| Bass Cannon          |          |
-| Dabble Bass          |          |
-| Gene Lip Bass        |          |
-| Enel's Bass          |          |
-| Groul Bass           |          |
-| UK Bass              |          |
-| Hard Bass            |          |
-| Monster Bass         |          |
-| Robot Bass           |          |
-| Duck Bass            |          |
-| D-Low Inward Bass    |          |
-| Air Bass             |          |
-| Slizzer Bass         |          |
-
 |      Basses     |          |
 |-----------------------|----------|
 | Throat Bass           | {{< audio src="sounds/basses/throat-bass.mp3" >}} |
@@ -148,47 +85,12 @@ menu:
 | Hollow Lip Bass      | {{< audio src="sounds/basses/hollow-lip-bass.mp3" >}} |
 | Hollow LipRoll Bass   | {{< audio src="sounds/basses/hollow-liproll-bass.mp3" >}} |
 | Electro Bass          | {{< audio src="sounds/basses/electro-bass.mp3" >}} |
+| Hard Bass/ Demon Bass/ Hardcore Bass/ Monster Bass/ Evil Bass            | {{< audio src="sounds/bass/hard-bass.mp3" >}} |
+| Air Bass             | {{< audio src="sounds/bass/air-bass.mp3" >}} |
+| CJ Mortal Bass         | {{< audio src="sounds/bass/mortal-bass.mp3" >}} |
+| Enel's Bass          | {{< audio src="sounds/bass/enel-bass.mp3" >}} |
+| Snore Bass           | {{< audio src="sounds/bass/snore-bass.mp3" >}} |
 
-
-
-
-|        Kick          |          |
-|----------------------|----------|
-| Kick (Classic Kick Drum) |          |
-| Inward Kick          |          |
-| Reverse Kick         |          |
-| Electro Kick         |          |
-| Double Kick          |          |
-| Throat Kick          |          |
-| TB Kick              |          |
-| Dry Kick             |          |
-| Reverse Dry Kick     |          |
-| Inward Dry Kick      |          |
-| Kick Roll            |          |
-| Kick And Hat Roll    |          |
-| Tongue Kick Roll     |          |
-| Uvular Kick Roll     |          |
-| Elephant Kick        |          |
-
-
-
-
-| Hi Hats and Cymbals  |          |
-|----------------------|----------|
-| Egg Shaker           |          |
-| Reverse Open Hi Hat  |          |
-| Brushed Cymbal       |          |
-| Splash Cymbal        |          |
-| Crash Cymbal         |          |
-| Inward Fast Hi Hats  |          |
-| Fast Hi Hats         |          |
-| Tkk Combo            |          |
-| Open Hi Hat          |          |
-| F Hi Hat             |          |
-| Hi Hat               |          |
-| Trap High Hat        |          |
-| Duck Hi Hat          |          |
-| Inward Vocalized Hi Hat |       |
 
 
 
@@ -274,6 +176,45 @@ menu:
 
 
 
+
+
+|        Kick          |          |
+|----------------------|----------|
+| Kick (Classic Kick Drum) |          |
+| Inward Kick          |          |
+| Reverse Kick         |          |
+| Electro Kick         |          |
+| Double Kick          |          |
+| Throat Kick          |          |
+| TB Kick              |          |
+| Dry Kick             |          |
+| Reverse Dry Kick     |          |
+| Inward Dry Kick      |          |
+| Kick Roll            |          |
+| Kick And Hat Roll    |          |
+| Tongue Kick Roll     |          |
+| Uvular Kick Roll     |          |
+| Elephant Kick        |          |
+
+
+
+
+| Hi Hats and Cymbals  |          |
+|----------------------|----------|
+| Egg Shaker           |          |
+| Reverse Open Hi Hat  |          |
+| Brushed Cymbal       |          |
+| Splash Cymbal        |          |
+| Crash Cymbal         |          |
+| Inward Fast Hi Hats  |          |
+| Fast Hi Hats         |          |
+| Tkk Combo            |          |
+| Open Hi Hat          |          |
+| F Hi Hat             |          |
+| Hi Hat               |          |
+| Trap High Hat        |          |
+| Duck Hi Hat          |          |
+| Inward Vocalized Hi Hat |       |
 
 
 | Clicks, Clops, and Pops |          |
