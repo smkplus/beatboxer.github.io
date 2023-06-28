@@ -183,57 +183,63 @@ menu:
 
 
 
-|      Snare       |          |
-|------------------|----------|
-| Two H Snare      | {{< audio src="sounds/snare/two-h-snare.mp3" >}}          |
-| Beat Rhino Snare |          |
-| Cough Snare      | {{< audio src="sounds/snare/cough-snare.mp3" >}}         |
-| BMG Snare        |          |
-| Triple BMG Snare |          |
-| Inward K Snare   | {{< audio src="sounds/snare/k-snare.mp3" >}}         |
-| Multi Snare      |          |
-| Vocalized Inward K Snare |   |
-| Outward K Snare  |          |
-| Inward Roto Snare  |          |
-| Rimshot          | {{< audio src="sounds/snare/rim-shot.mp3" >}}         |
-| PH Snare           |          |
-| CL Snare           |          |
-| Inward Hollow Snare|          |
-| Combination Snare  |          |
-| Classic PSH Snare  |          |
-| 909 Snare          |          |
-| 808 Snare          |          |
-| Fast Snare Roll    |          |
-| Gun Cock Snare     |          |
-| PF Snare           |          |
-| Esh Cough Snare    |          |
-| Side K Snare       |          |
-| Inward Rimshot     |          |
-| Fast Spit Snare    |          |
-| Helium K Snare     |          |
-| Multi Spit Snare   |          |
-| PSH Snare          |          |
-| POH Snare          | {{< audio src="sounds/snare/poh-snare.mp3" >}}         |
-| Outward Rimshot    |          |
-| Classic Snare      |          |
-| Kenny Muhammed Snare |        |
-| Whistle Snare      |          |
-| ESH Snare          |          |
-| Pitch Snare        |          |
-| Dharni KSH Snare   |          |
-| Synth Snare        |          |
-| Throat Snare       |          |
-| PEH Snare          |          |
-| PF Whistle Snare   |          |
-| Nose Snare         |          |
-| Powerful Snare     |          |
-| Tongue Bass Snare  |          |
-| Blade Snare        |          |
-| Mad Clop Snare     |          |
-| Mad Cough Snare    | {{< audio src="sounds/snare/mad-cough-snare.mp3" >}}         |
-| Mad TF Snare       |          |
-| Reverse Snare      |          |
-| Fish Snare         | {{< audio src="sounds/snare/fish-snare.mp3" >}}         |
+
+|      Snares     |          |
+|-----------------------|----------|
+| K Snare Out           | {{< audio src="sounds/snares/k-snare-out.mp3" >}} |
+| Duck K Snare Out      | {{< audio src="sounds/snares/duck-k-snare-out.mp3" >}} |
+| Inward K Snare        | {{< audio src="sounds/snares/inward-k-snare.mp3" >}} |
+| Rim Shot              | {{< audio src="sounds/snares/rim-shot.mp3" >}} |
+| PF Snare              | {{< audio src="sounds/snares/pf-snare.mp3" >}} |
+| PSCH Snare            | {{< audio src="sounds/snares/psch-snare.mp3" >}} |
+| Rhino Snare           | {{< audio src="sounds/snares/rhino-snare.mp3" >}} |
+| TF Snare           | {{< audio src="sounds/snares/tf-snare.mp3" >}} |
+| Duff Snare            | {{< audio src="sounds/snares/duff-snare.mp3" >}} |
+| PS Snare              | {{< audio src="sounds/snares/ps-snare.mp3" >}} |
+| Push Snare            | {{< audio src="sounds/snares/push-snare.mp3" >}} |
+| Hollow Clop Snare     | {{< audio src="sounds/snares/hollow-clop-snare.mp3" >}} |
+| Tongue Snare / 808    | {{< audio src="sounds/snares/tongue-snare(808).mp3" >}} |
+| Tongue Bass Snare     | {{< audio src="sounds/snares/tongue-bass-snare.mp3" >}} |
+| TUS Snare             | {{< audio src="sounds/snares/tus-snare.mp3" >}} |
+| Top Lip Spit Snare    | {{< audio src="sounds/snares/top-lip-spit-snare.mp3" >}} |
+| Kiss Spit Snare       | {{< audio src="sounds/snares/kiss-spit-snare.mp3" >}} |
+| Fish Snare            | {{< audio src="sounds/snares/fish-snare.mp3" >}} |
+| Ghost Snare           | {{< audio src="sounds/snares/ghost-snare.mp3" >}} |
+| Villardo Snare        | {{< audio src="sounds/snares/villardo-snare.mp3" >}} |
+| Sneeze Snare          | {{< audio src="sounds/snares/sneeze-snare.mp3" >}} |
+| Esh Snare             | {{< audio src="sounds/snares/esh-snare.mp3" >}} |
+| Peh Snare             | {{< audio src="sounds/snares/peh-snare.mp3" >}} |
+|Category #2 Two Sound Combo|
+| Blade Snare           | {{< audio src="sounds/snares/blade-snare.mp3" >}} |
+| Vocalized Inward K    | {{< audio src="sounds/snares/vocalized-inward-k.mp3" >}} |
+| Double Inward Snare   | {{< audio src="sounds/snares/double-inward-snare.mp3" >}}|
+| Two H Snare           | {{< audio src="sounds/snares/two-h-snare.mp3" >}} |
+| Mad Clop Snare        | {{< audio src="sounds/snares/mad-clop-snare.mp3" >}} |
+| Distorted TF Snare    | {{< audio src="sounds/snares/distorted-tf-snare.mp3" >}} |
+| Vocalized Cough Snare | {{< audio src="sounds/snares/vocalized-cough-snare.mp3" >}} |
+| Normal Cough Snare    | {{< audio src="sounds/snares/cough-snare.mp3" >}} |
+| Rolled Spit Snare     | {{< audio src="sounds/snares/rolled-spit-snare.mp3" >}} |
+| Rimshot Hollow Clop   | {{< audio src="sounds/snares/rimshot-hollow-clop.mp3" >}} |
+| Sneeze Spit Snare     | {{< audio src="sounds/snares/sneeze-spit-snare.mp3" >}} |
+| Falsetto Spit Snare   | {{< audio src="sounds/snares/falsetto-spit-snare.mp3" >}} |
+| Esh Tongue Bass Snare | {{< audio src="sounds/snares/esh-tongue-bass-snare.mp3" >}} |
+| Double K Snare Outward | {{< audio src="sounds/snares/double-k-snare-outward.mp3" >}} |
+| Inward Tongue Bass Snare | {{< audio src="sounds/snares/inward-tongue-bass-snare.mp3" >}} |
+| Click Snare           | {{< audio src="sounds/snares/click-snare.mp3" >}} |
+| Vocalized Spit Snare  | {{< audio src="sounds/snares/vocalized-fish-snare.mp3" >}} |
+| Laid Back Inward K Snare | {{< audio src="sounds/snares/laid-back-inward-k-snare.mp3" >}} |
+| Poly Spit Snare       | {{< audio src="sounds/snares/poly-spit-snare.mp3" >}} |
+| Huckle Snare          | {{< audio src="sounds/snares/huckle-snare.mp3" >}} |
+| Distorted Spit Snare  | {{< audio src="sounds/snares/distorted-spit-snare.mp3" >}} |
+|Category #3 Three Sound Combo|
+| Mad Cough Snare       | {{< audio src="sounds/snares/mad-cough-snare.mp3" >}} |
+| Vocalized Club Snare  | {{< audio src="sounds/snares/vocalized-club-snare.mp3" >}} |
+| Vocalized Sneeze Spit Snare | {{< audio src="sounds/snares/vocalized-sneeze-spit-snare.mp3" >}} |
+| Rolled Inward K Snare | {{< audio src="sounds/snares/rolled-inward-k-snare.mp3" >}} |
+| Category #4 Special   |          |
+| Poh Snare             | {{< audio src="sounds/snares/poh-snare.mp3" >}} |
+
+
 
 
 
