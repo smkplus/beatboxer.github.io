@@ -85,11 +85,13 @@ menu:
 | Hollow Lip Bass      | {{< audio src="sounds/basses/hollow-lip-bass.mp3" >}} |
 | Hollow LipRoll Bass   | {{< audio src="sounds/basses/hollow-liproll-bass.mp3" >}} |
 | Electro Bass          | {{< audio src="sounds/basses/electro-bass.mp3" >}} |
-| Hard Bass/ Demon Bass/ Hardcore Bass/ Monster Bass/ Evil Bass            | {{< audio src="sounds/bass/hard-bass.mp3" >}} |
-| Air Bass             | {{< audio src="sounds/bass/air-bass.mp3" >}} |
-| CJ Mortal Bass         | {{< audio src="sounds/bass/mortal-bass.mp3" >}} |
-| Enel's Bass          | {{< audio src="sounds/bass/enel-bass.mp3" >}} |
-| Snore Bass           | {{< audio src="sounds/bass/snore-bass.mp3" >}} |
+| Hard Bass/ Demon Bass/
+ Hardcore Bass/
+ Monster Bass/ Evil Bass            | {{< audio src="sounds/basses/hard-bass.mp3" >}} |
+| Air Bass             | {{< audio src="sounds/basses/air-bass.mp3" >}} |
+| CJ Mortal Bass         | {{< audio src="sounds/basses/mortal-bass.mp3" >}} |
+| Enel's Bass          | {{< audio src="sounds/basses/enel-bass.mp3" >}} |
+| Snore Bass           | {{< audio src="sounds/basses/snore-bass.mp3" >}} |
 
 
 
@@ -239,12 +241,13 @@ menu:
 
 |      Other Sounds     |          |
 |-----------------------|----------|
-| Double Voice          |          |
+| Vocal Roll/CTB Sound  | {{< audio src="sounds/others/vocal-roll(ctb).mp3" >}} |
+| Double Voice          | {{< audio src="sounds/others/double-sound.mp3" >}}          |
 | Inward Double Voice   |          |
 | Polyphonic Voice      | {{< audio src="sounds/others/polyphonic.mp3" >}}            |
 | Robot Voice           |          |
 | Zipper                |          |
-| D-Low Zipper          |          |
+| D-Low Zipper          | {{< audio src="sounds/others/dlow-zipper.mp3" >}}           |
 | Helium Zipper         |          |
 | Meow Squeak           |          |
 | Meow Squeak Roll      |          |
@@ -278,17 +281,15 @@ menu:
 | Dımbıllan Sound       |          |
 | Dıdıdış Sound         |          |
 | Reverse Sound         |          |
-| Sega Sound            |          |
+| Sega Sound            |  {{< audio src="sounds/others/sega-sound.mp3" >}}        |
 | Throat Tapping Sound  |          |
 | O Synth              |   {{< audio src="sounds/others/o-synth.mp3" >}}        |
 | Clown Horn            |          |
 | Baby Voice            |          |
 | Donald Duck Sound     |          |
 | Machine Gun Sound     |          |
-| Cricket Sound         |          |
 | Shimmer               |          |
 | Pash Laser Sound      | {{< audio src="sounds/others/pash-laser.mp3" >}}         |
 | Inward Chant          |          |
-| 626 Effect            |          |
-| Pacmax Train Sound    |          |
+| 626 Effect (Stitch Special Sound)            | {{< audio src="sounds/others/626-effect.mp3" >}}         |
 
