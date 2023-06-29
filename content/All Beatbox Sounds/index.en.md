@@ -32,7 +32,7 @@ menu:
 
 
 
-|      Whistles       | Sample                                            |
+|      Whistles       | Samples                                            |
 |---------------------|----------|
 | Normal Whistle             | {{< audio src="sounds/whistles/whistle.mp3" >}}         |
 | Cricket Whistle     | {{< audio src="sounds/whistles/cricket-whistle.mp3" >}}         |
@@ -53,7 +53,7 @@ menu:
 
 
 
-|      Basses     |          |
+|      Basses     | Samples         |
 |-----------------------|----------|
 | Throat Bass           | {{< audio src="sounds/basses/throat-bass.mp3" >}} |
 | Vocal Lip Oscillation | {{< audio src="sounds/basses/vocal-lip-oscillation.mp3" >}} |
@@ -85,9 +85,7 @@ menu:
 | Hollow Lip Bass      | {{< audio src="sounds/basses/hollow-lip-bass.mp3" >}} |
 | Hollow LipRoll Bass   | {{< audio src="sounds/basses/hollow-liproll-bass.mp3" >}} |
 | Electro Bass          | {{< audio src="sounds/basses/electro-bass.mp3" >}} |
-| Hard Bass/ Demon Bass/
- Hardcore Bass/
- Monster Bass/ Evil Bass            | {{< audio src="sounds/basses/hard-bass.mp3" >}} |
+| Hard Bass/ Demon Bass/Hardcore Bass/Monster Bass/ Evil Bass            | {{< audio src="sounds/basses/hard-bass.mp3" >}} |
 | Air Bass             | {{< audio src="sounds/basses/air-bass.mp3" >}} |
 | CJ Mortal Bass         | {{< audio src="sounds/basses/mortal-bass.mp3" >}} |
 | Enel's Bass          | {{< audio src="sounds/basses/enel-bass.mp3" >}} |
@@ -101,27 +99,22 @@ menu:
 
 
 
-|     Instruments     |          |
-|---------------------|----------|
-| Trumpet / Trombone  | {{< audio src="sounds/instrument/trumpet-trombone.mp3" >}}         |
-| Helium Trumpet      | {{< audio src="sounds/instrument/helium-trumpet.mp3" >}}         |
-| Electric Guitar     | {{< audio src="sounds/instrument/electric-guitar.mp3" >}}         |
-| Saxophone           | {{< audio src="sounds/instrument/saxophone.mp3" >}}         |
-| Chinese Instrument | {{< audio src="sounds/instrument/chinese-Instrument.mp3" >}}      |
-| Violin              | {{< audio src="sounds/instrument/violin.mp3" >}}         |
-| Pizzicato Strings   | {{< audio src="sounds/instrument/pızzıcato-strıngs.mp3" >}}         |
+|     Instruments     |Samples|
+|---------------------|-------|
+| Trumpet / Trombone  | {{< audio src="sounds/instrument/trumpet-trombone.mp3" >}}|
+| Helium Trumpet      | {{< audio src="sounds/instrument/helium-trumpet.mp3" >}}|
+| Electric Guitar     | {{< audio src="sounds/instrument/electric-guitar.mp3" >}}|
+| Saxophone           | {{< audio src="sounds/instrument/saxophone.mp3" >}}|
+| Chinese Instrument | {{< audio src="sounds/instrument/chinese-Instrument.mp3" >}}|
+| Violin              | {{< audio src="sounds/instrument/violin.mp3" >}}|
+| Pizzicato Strings   | {{< audio src="sounds/instrument/pızzıcato-strıngs.mp3" >}}|
 
 
 
 
 
 
-
-
-
-
-
-|      Snares     |          |
+|      Snares     | Samples        |
 |-----------------------|----------|
 | K Snare Out           | {{< audio src="sounds/snares/k-snare-out.mp3" >}} |
 | Duck K Snare Out      | {{< audio src="sounds/snares/duck-k-snare-out.mp3" >}} |
@@ -178,9 +171,32 @@ menu:
 
 
 
+|        Liproll Sounds       | Samples        |
+|----------------------------|----------|
+| Electro Liproll            | {{< audio src="sounds/liprolls/electro-liproll.mp3" >}} |
+| Punchy Liproll             | {{< audio src="sounds/liprolls/punchy-liproll.mp3" >}} |
+| Growling Liproll           | {{< audio src="sounds/liprolls/growling-liproll.mp3" >}} |
+| 808 Sub Liproll            | {{< audio src="sounds/liprolls/808-sub-liproll.mp3" >}} |
+| Just Sub Liproll           | {{< audio src="sounds/liprolls/just-sub-liproll.mp3" >}} |
+| Thin Teeth Liproll         | {{< audio src="sounds/liprolls/thin-teeth-liproll.mp3" >}} |
+| 8-Bit Liproll              | {{< audio src="sounds/liprolls/8-bit-liproll.mp3" >}} |
+| Yoi Sub Liproll            | {{< audio src="sounds/liprolls/yoi-sub-liproll.mp3" >}} |
+| Hi Vocalized Liproll       | {{< audio src="sounds/liprolls/hi-vocalized-liproll.mp3" >}} |
+| X2 Liproll                 | {{< audio src="sounds/liprolls/x2-liproll.mp3" >}} |
+| Blaze It Up Liproll        | {{< audio src="sounds/liprolls/blaze-it-up-liproll.mp3" >}} |
+| Teeth Liproll              | {{< audio src="sounds/liprolls/teeth-liproll.mp3" >}} |
+| Grimy Teeth Liproll        | {{< audio src="sounds/liprolls/grimy-teeth-liproll.mp3" >}} |
+| Hollow Liproll             | {{< audio src="sounds/liprolls/hollow-liproll.mp3" >}} |
+| Low Hollow Liproll         | {{< audio src="sounds/liprolls/low-hollow-liproll.mp3" >}} |
+| Tongue Hollow Liproll      | {{< audio src="sounds/liprolls/tongue-hollow-liproll.mp3" >}} |
+| Tongue Punchy Liproll      | {{< audio src="sounds/liprolls/tongue-punchy-liproll.mp3" >}} |
+| Tongue 808 Sub Liproll     | {{< audio src="sounds/liprolls/tongue-808-sub-liproll.mp3" >}} |
+| Tongue Just Sub Liproll    | {{< audio src="sounds/liprolls/tongue-just-sub-liproll.mp3" >}} |
+| Double Liproll             | {{< audio src="sounds/liprolls/double-liproll.mp3" >}} |
 
 
-|        Kick          |          |
+
+|        Kick          | Samples         |
 |----------------------|----------|
 | Kick (Classic Kick Drum) |          |
 | Inward Kick          |          |
@@ -201,7 +217,7 @@ menu:
 
 
 
-| Hi Hats and Cymbals  |          |
+| Hi Hats and Cymbals  | Samples         |
 |----------------------|----------|
 | Egg Shaker           |          |
 | Reverse Open Hi Hat  |          |
@@ -219,7 +235,7 @@ menu:
 | Inward Vocalized Hi Hat |       |
 
 
-| Clicks, Clops, and Pops |          |
+| Clicks, Clops, and Pops | Samples         |
 |------------------------|----------|
 | Clop                   |          |
 | Hollow Clop            |          |
@@ -239,7 +255,7 @@ menu:
 | Fast Click             |          |
 
 
-|      Other Sounds     |          |
+|      Other Sounds     | Samples         |
 |-----------------------|----------|
 | Vocal Roll/CTB Sound  | {{< audio src="sounds/others/vocal-roll(ctb).mp3" >}} |
 | Double Voice          | {{< audio src="sounds/others/double-sound.mp3" >}}          |
