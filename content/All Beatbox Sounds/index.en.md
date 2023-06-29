@@ -235,24 +235,28 @@ menu:
 | Inward Vocalized Hi Hat |       |
 
 
-| Clicks, Clops, and Pops | Samples         |
-|------------------------|----------|
+|      
+| Clicks, Clops, and Pops     |          |
+|---------------------------|----------|
+| Alien Click Roll          | {{< audio src="sounds/clicks-clops-pops/alien-click-roll.mp3" >}} |
+| Bart Click Roll           | {{< audio src="sounds/clicks-clops-pops/bart-click-roll.mp3" >}} |
+| Fast Click                | {{< audio src="sounds/clicks-clops-pops/fast-click.mp3" >}} |
+| Super Fast Click          | {{< audio src="sounds/clicks-clops-pops/super-fast-click.mp3" >}} |
+| Tennis Ball Pop           | {{< audio src="sounds/clicks-clops-pops/tennis-ball-pop.mp3" >}} |
+| Zekka H Has Click Roll    | {{< audio src="sounds/clicks-clops-pops/zekka-h-has-click-roll.mp3" >}} |
 | Clop                   |          |
 | Hollow Clop            |          |
 | Triple Hollow Clop     |          |
-| Tennis Pop             |          |
 | Outward Click Roll     |          |
 | Inward Click Roll      |          |
 | Zombie Click Roll      |          |
-| Alien Click Roll       |          |
-| Zekka / H-Has Click Roll |        |
 | Hollow Pop             |          |
 | Loud Clop              |          |
 | Bongo                  |          |
-| Super Click            |          |
 | Double Click           |          |
 | Click                  |          |
 | Fast Click             |          |
+
 
 
 |      Other Sounds     | Samples         |
