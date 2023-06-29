@@ -6,7 +6,7 @@ type: posts
 author:
   name: Seyed Morteza Kamali
   link: https://github.com/smkplus
-description: Technical Pattern Tutorial.
+description: All Beatbox Sounds
 resources:
   - name: featured-image
     src: featured-image.png
@@ -36,7 +36,7 @@ menu:
 |---------------------|----------|
 | Normal Whistle             | {{< audio src="sounds/whistles/whistle.mp3" >}}         |
 | Cricket Whistle     | {{< audio src="sounds/whistles/cricket-whistle.mp3" >}}         |
-| Bolbol Whistle     | {{< audio src="sounds/whistles/bolboli-whistle.mp3" >}}         |
+| Bolbol/Kamali Whistle     | {{< audio src="sounds/whistles/bolbol-whistle.mp3" >}}         |
 | Laser Whistle       | {{< audio src="sounds/whistles/laser-whistle.mp3" >}}         |
 | Inward Teeth Whistle| {{< audio src="sounds/whistles/inward-teeth-whistle.mp3" >}}         |
 | Outward Teeth Whistle       | {{< audio src="sounds/whistles/outward-teeth-whistle.mp3" >}}         |
@@ -235,7 +235,7 @@ menu:
 | Inward Vocalized Hi Hat |       |
 
 
-|      
+      
 | Clicks, Clops, and Pops     |          |
 |---------------------------|----------|
 | Alien Click Roll          | {{< audio src="sounds/clicks-clops-pops/alien-click-roll.mp3" >}} |
@@ -255,7 +255,6 @@ menu:
 | Bongo                  |          |
 | Double Click           |          |
 | Click                  |          |
-| Fast Click             |          |
 
 
 
@@ -268,44 +267,30 @@ menu:
 | Robot Voice           |          |
 | Zipper                |          |
 | D-Low Zipper          | {{< audio src="sounds/others/dlow-zipper.mp3" >}}           |
+| Inward Vocal Fry         |          |
 | Helium Zipper         |          |
 | Meow Squeak           |          |
-| Meow Squeak Roll      |          |
+| Frosty Sound (Meow Squeak Roll)          | {{< audio src="sounds/others/frosty-sound.mp3" >}}           |
 | Hutch Squeak          |          |
 | D-Low Squeak          |          |
 | Siren                 |          |
 | Siren Roll            |          |
 | Two H Siren           |          |
-| Vocal Roll            |          |
-| Lip Roll              |          |
-| Inward Lip Roll       |          |
-| Reverse Lip Roll      |          |
-| Vocalized Lip Roll    |          |
-| Hollow Lip Roll       |          |
-| Hollow Lip Roll Combos|          |
-| Laser Lip Roll        |          |
-| Teeth Lip Roll        |          |
-| Lip Roll Drags        |          |
-| Tongue Lip Roll       |          |
-| Inward Tongue Roll    |          |
-| Slizzer Roll          |          |
-| Skiller Roll          |          |
 | Backspin Roll         |          |
 | Dubstep Roll          |          |
-| Bubble Roll           |          |
+| Bubble Roll           | {{< audio src="sounds/others/bubble-roll-dlow.mp3" >}}          |
 | Mad Wobble Roll       |          |
 | Inward Drag           |          |
 | Water Drop            | {{< audio src="sounds/others/water-drop.mp3" >}}         |
 | Dharni Water Drop     |          |
 | Pancar Motoru Sound   |          |
-| Dımbıllan Sound       |          |
 | Dıdıdış Sound         |          |
 | Reverse Sound         |          |
 | Sega Sound            |  {{< audio src="sounds/others/sega-sound.mp3" >}}        |
 | Throat Tapping Sound  |          |
 | O Synth              |   {{< audio src="sounds/others/o-synth.mp3" >}}        |
 | Clown Horn            |          |
-| Baby Voice            |          |
+| Baby Voice            |   {{< audio src="sounds/others/baby-voice.mp3" >}}        |
 | Donald Duck Sound     |          |
 | Machine Gun Sound     |          |
 | Shimmer               |          |
