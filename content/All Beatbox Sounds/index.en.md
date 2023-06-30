@@ -259,12 +259,11 @@ menu:
 
 
 
-|      Other Sounds     | Samples         |
+|      Other Sounds     | Samples  |
 |-----------------------|----------|
 | Vocal Roll/CTB Sound  | {{< audio src="sounds/others/vocal-roll(ctb).mp3" >}} |
 | Double Voice          | {{< audio src="sounds/others/double-sound.mp3" >}}          |
 | Inward Double Voice    | {{< audio src="sounds/other-sounds/inward-double-voice.mp3" >}} |
-
 | Baby Voice            |   {{< audio src="sounds/others/baby-voice.mp3" >}}        |
 | Duck Sound     |          {{< audio src="sounds/others/duck-sound.mp3" >}} |
 | Polyphonic Voice      | {{< audio src="sounds/others/polyphonic.mp3" >}}            |
