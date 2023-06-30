@@ -221,22 +221,19 @@ menu:
 
 
 
-| Hi Hats and Cymbals  | Samples         |
-|----------------------|----------|
-| Egg Shaker           |          |
-| Reverse Open Hi Hat  |          |
-| Brushed Cymbal       |          |
-| Splash Cymbal        |          |
-| Crash Cymbal         |          |
-| Inward Fast Hi Hats  |          |
-| Fast Hi Hats         |          |
-| Tkk Combo            |          |
-| Open Hi Hat          |          |
-| F Hi Hat             |          |
-| Hi Hat               |          |
-| Trap High Hat        |          |
-| Duck Hi Hat          |          |
-| Inward Vocalized Hi Hat |       |
+|     Hi Hats and Cymbals     | Samples         |
+|----------------------------|-----------------|
+| Brushed Cymbal             | {{< audio src="sounds/hi-hats-and-cymbals/brushed-cymbal.mp3" >}} |
+| Crash Cymbal               | {{< audio src="sounds/hi-hats-and-cymbals/crash-cymbal.mp3" >}} |
+| Duck Hi Hat                | {{< audio src="sounds/hi-hats-and-cymbals/duck-hi-hat.mp3" >}} |
+| Egg Shaker                 | {{< audio src="sounds/hi-hats-and-cymbals/egg-shaker.mp3" >}} |
+| F Hi Hat                   | {{< audio src="sounds/hi-hats-and-cymbals/f-hi-hat.mp3" >}} |
+| Fast Hi Hats               | {{< audio src="sounds/hi-hats-and-cymbals/fast-hi-hats.mp3" >}} |
+| Hi Hat                     | {{< audio src="sounds/hi-hats-and-cymbals/hi-hat.mp3" >}} |
+| Open Hi Hat                | {{< audio src="sounds/hi-hats-and-cymbals/open-hi-hat.mp3" >}} |
+| Sliced Hi-Hat                 | {{< audio src="sounds/hi-hats-and-cymbals/sliced-hihat.mp3" >}} |
+| Mhs Cymbal              | {{< audio src="sounds/hi-hats-and-cymbals/mhs-cymbal.mp3" >}} |
+| Trap High Hat              | {{< audio src="sounds/hi-hats-and-cymbals/trap-high-hat.mp3" >}} |
 
 
       
@@ -270,6 +267,7 @@ menu:
 | Inward Double Voice    | {{< audio src="sounds/other-sounds/inward-double-voice.mp3" >}} |
 | Baby Voice            |   {{< audio src="sounds/other-sounds/baby-voice.mp3" >}}        |
 | Duck Sound     |          {{< audio src="sounds/other-sounds/duck-sound.mp3" >}} |
+| Duck Roll     |          {{< audio src="sounds/other-sounds/duck-roll.mp3" >}} |
 | Polyphonic Voice      | {{< audio src="sounds/other-sounds/polyphonic.mp3" >}}            |
 | O Synth              |   {{< audio src="sounds/other-sounds/o-synth.mp3" >}}        |
 | Bubble Roll           | {{< audio src="sounds/other-sounds/bubble-roll-dlow.mp3" >}}          |
@@ -293,5 +291,6 @@ menu:
 | Throat Tapping Sound  | {{< audio src="sounds/other-sounds/throat-tapping-sound.mp3" >}} |
 | Clown Horn            | {{< audio src="sounds/other-sounds/clown-horn.mp3" >}} |
 | Inward Chant          | {{< audio src="sounds/other-sounds/inward-chant.mp3" >}} |
+| Inward Drag          | {{< audio src="sounds/other-sounds/inward-drag.mp3" >}} |
 | 626 Effect (Stitch Special Sound)            | {{< audio src="sounds/other-sounds/626-effect.mp3" >}}         |
 
