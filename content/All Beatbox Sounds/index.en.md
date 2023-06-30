@@ -261,37 +261,33 @@ menu:
 
 |      Other Sounds     | Samples  |
 |-----------------------|----------|
-| Vocal Roll/CTB Sound  | {{< audio src="sounds/others/vocal-roll(ctb).mp3" >}} |
-| Double Voice          | {{< audio src="sounds/others/double-sound.mp3" >}}          |
+| Vocal Roll/CTB Sound  | {{< audio src="sounds/other-sounds/vocal-roll(ctb).mp3" >}} |
+| Double Voice          | {{< audio src="sounds/other-sounds/double-sound.mp3" >}}          |
 | Inward Double Voice    | {{< audio src="sounds/other-sounds/inward-double-voice.mp3" >}} |
-| Baby Voice            |   {{< audio src="sounds/others/baby-voice.mp3" >}}        |
-| Duck Sound     |          {{< audio src="sounds/others/duck-sound.mp3" >}} |
-| Polyphonic Voice      | {{< audio src="sounds/others/polyphonic.mp3" >}}            |
-| O Synth              |   {{< audio src="sounds/others/o-synth.mp3" >}}        |
-| Bubble Roll           | {{< audio src="sounds/others/bubble-roll-dlow.mp3" >}}          |
+| Baby Voice            |   {{< audio src="sounds/other-sounds/baby-voice.mp3" >}}        |
+| Duck Sound     |          {{< audio src="sounds/other-sounds/duck-sound.mp3" >}} |
+| Polyphonic Voice      | {{< audio src="sounds/other-sounds/polyphonic.mp3" >}}            |
+| O Synth              |   {{< audio src="sounds/other-sounds/o-synth.mp3" >}}        |
+| Bubble Roll           | {{< audio src="sounds/other-sounds/bubble-roll-dlow.mp3" >}}          |
 | Zipper                 | {{< audio src="sounds/other-sounds/zipper.mp3" >}} |
-| D-Low Zipper          | {{< audio src="sounds/others/dlow-zipper.mp3" >}}           |
-| Water Drop            | {{< audio src="sounds/others/water-drop.mp3" >}}         |
-| Pash Laser Sound      | {{< audio src="sounds/others/pash-laser.mp3" >}}         |
-| Sega Sound            |  {{< audio src="sounds/others/sega-sound.mp3" >}}        |
+| D-Low Zipper          | {{< audio src="sounds/other-sounds/dlow-zipper.mp3" >}}           |
+| Water Drop            | {{< audio src="sounds/other-sounds/water-drop.mp3" >}}         |
+| Pash Laser Sound      | {{< audio src="sounds/other-sounds/pash-laser.mp3" >}}         |
+| Sega Sound            |  {{< audio src="sounds/other-sounds/sega-sound.mp3" >}}        |
 | Inward Vocal Fry      | {{< audio src="sounds/other-sounds/inward-vocal-fry.mp3" >}} |
 | Helium Zipper         | {{< audio src="sounds/other-sounds/helium-zipper.mp3" >}} |
 | Meow Squeak           | {{< audio src="sounds/other-sounds/meow-squeak.mp3" >}} |
-| Frosty Sound (Meow Squeak Roll)          | {{< audio src="sounds/others/frosty-sound.mp3" >}}           |
-| Hutch Squeak          | {{< audio src="sounds/other-sounds/hutch-squeak.mp3" >}} |
+| Frosty Sound (Meow Squeak Roll)          | {{< audio src="sounds/other-sounds/frosty-sound.mp3" >}}           |
+| KIM/Hutch Squeak          | {{< audio src="sounds/other-sounds/kim-hutch-squeak.mp3" >}} |
 | Robot Voice           | {{< audio src="sounds/other-sounds/robot-voice.mp3" >}} |
-| D-Low Squeak          | {{< audio src="sounds/other-sounds/d-low-squeak.mp3" >}} |
 | Siren                 | {{< audio src="sounds/other-sounds/siren.mp3" >}} |
-| Siren Roll            | {{< audio src="sounds/other-sounds/siren-roll.mp3" >}} |
+| Siren/MixFx Roll            | {{< audio src="sounds/other-sounds/siren-roll.mp3" >}} |
 | Sonic Boom            | {{< audio src="sounds/other-sounds/sonic-boom.mp3" >}} |
-| Backspin Roll         | {{< audio src="sounds/other-sounds/backspin-roll.mp3" >}} |
-| Dubstep Roll          | {{< audio src="sounds/other-sounds/dubstep-roll.mp3" >}} |
-| Inward Drag           | {{< audio src="sounds/other-sounds/inward-drag.mp3" >}} |
 | Dharni Water Drop     | {{< audio src="sounds/other-sounds/dharni-water-drop.mp3" >}} |
 | Milky Sound   | {{< audio src="sounds/other-sounds/milky-sound.mp3" >}} |
 | Vocal Scratch         | {{< audio src="sounds/other-sounds/vocal-scratch.mp3" >}} |
 | Throat Tapping Sound  | {{< audio src="sounds/other-sounds/throat-tapping-sound.mp3" >}} |
 | Clown Horn            | {{< audio src="sounds/other-sounds/clown-horn.mp3" >}} |
 | Inward Chant          | {{< audio src="sounds/other-sounds/inward-chant.mp3" >}} |
-| 626 Effect (Stitch Special Sound)            | {{< audio src="sounds/others/626-effect.mp3" >}}         |
+| 626 Effect (Stitch Special Sound)            | {{< audio src="sounds/other-sounds/626-effect.mp3" >}}         |
 
