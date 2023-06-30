@@ -143,6 +143,7 @@ menu:
 | Sneeze Snare          | {{< audio src="sounds/snares/sneeze-snare.mp3" >}} |
 | Esh Snare             | {{< audio src="sounds/snares/esh-snare.mp3" >}} |
 | Peh Snare             | {{< audio src="sounds/snares/peh-snare.mp3" >}} |
+| River Snare             | {{< audio src="sounds/snares/river-snare.mp3" >}} |
 |Category #2 Two Sound Combo|
 | Blade Snare           | {{< audio src="sounds/snares/blade-snare.mp3" >}} |
 | Vocalized Inward K    | {{< audio src="sounds/snares/vocalized-inward-k.mp3" >}} |
@@ -174,7 +175,6 @@ menu:
 | Poh Snare             | {{< audio src="sounds/snares/poh-snare.mp3" >}} |
 
 
-
 |        Liproll Sounds       | Samples        |
 |----------------------------|----------|
 | Electro Liproll            | {{< audio src="sounds/liprolls/electro-liproll.mp3" >}} |
@@ -201,23 +201,13 @@ menu:
 
 
 |        Kick          | Samples         |
-|----------------------|----------|
-| Kick (Classic Kick Drum) |          |
-| Inward Kick          |          |
-| Reverse Kick         |          |
-| Electro Kick         |          |
-| Double Kick          |          |
-| Throat Kick          |          |
-| TB Kick              |          |
-| Dry Kick             |          |
-| Reverse Dry Kick     |          |
-| Inward Dry Kick      |          |
-| Kick Roll            |          |
-| Kick And Hat Roll    |          |
-| Tongue Kick Roll     |          |
-| Uvular Kick Roll     |          |
-| Elephant Kick        |          |
-
+|----------------------|-----------------|
+| Kick (Classic Kick Drum) | {{< audio src="sounds/kick/kick.mp3" >}} |
+| Electro Kick         | {{< audio src="sounds/kick/electro-kick.mp3" >}} |
+| Throat Kick          | {{< audio src="sounds/kick/throat-kick.mp3" >}} |
+| Dry Kick             | {{< audio src="sounds/kick/dry-kick.mp3" >}} |
+| Bdb Kick Roll / Double Kick / Triple Kick | {{< audio src="sounds/kick/bdb-kick-roll.mp3" >}} |
+| Brb Kick Roll       | {{< audio src="sounds/kick/brb-kick-roll.mp3" >}} |
 
 
 
@@ -246,17 +236,8 @@ menu:
 | Tennis Ball Pop           | {{< audio src="sounds/clicks-clops-pops/tennis-ball-pop.mp3" >}} |
 | Zekka H Has Click Roll    | {{< audio src="sounds/clicks-clops-pops/zekka-h-has-click-roll.mp3" >}} |
 | Dlow Click    | {{< audio src="sounds/clicks-clops-pops/dlow-click.mp3" >}} |
-| Clop                   |          |
-| Hollow Clop            |          |
-| Triple Hollow Clop     |          |
-| Outward Click Roll     |          |
-| Inward Click Roll      |          |
-| Zombie Click Roll      |          |
-| Hollow Pop             |          |
-| Loud Clop              |          |
-| Bongo                  |          |
-| Double Click           |          |
-| Click                  |          |
+| Clop                   | {{< audio src="sounds/clicks-clops-pops/clop.mp3" >}}          |
+| Hollow Clop            | {{< audio src="sounds/clicks-clops-pops/hollow-clop.mp3" >}}         |
 
 
 
@@ -292,5 +273,6 @@ menu:
 | Clown Horn            | {{< audio src="sounds/other-sounds/clown-horn.mp3" >}} |
 | Inward Chant          | {{< audio src="sounds/other-sounds/inward-chant.mp3" >}} |
 | Inward Drag          | {{< audio src="sounds/other-sounds/inward-drag.mp3" >}} |
+| Sucker Punch          | {{< audio src="sounds/other-sounds/sucker-punch.mp3" >}} |
 | 626 Effect (Stitch Special Sound)            | {{< audio src="sounds/other-sounds/626-effect.mp3" >}}         |
 
