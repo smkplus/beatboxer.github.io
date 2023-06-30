@@ -36,7 +36,7 @@ menu:
 |---------------------|----------|
 | Normal Whistle             | {{< audio src="sounds/whistles/whistle.mp3" >}}         |
 | Cricket Whistle     | {{< audio src="sounds/whistles/cricket-whistle.mp3" >}}         |
-| Bolbol/Kamali Whistle     | {{< audio src="sounds/whistles/bolbol-whistle.mp3" >}}         |
+| Bolbol Whistle     | {{< audio src="sounds/whistles/bolbol-whistle.mp3" >}}         |
 | Laser Whistle       | {{< audio src="sounds/whistles/laser-whistle.mp3" >}}         |
 | Inward Teeth Whistle| {{< audio src="sounds/whistles/inward-teeth-whistle.mp3" >}}         |
 | Outward Teeth Whistle       | {{< audio src="sounds/whistles/outward-teeth-whistle.mp3" >}}         |
@@ -90,7 +90,7 @@ menu:
 | CJ Mortal Bass         | {{< audio src="sounds/basses/mortal-bass.mp3" >}} |
 | Enel's Bass          | {{< audio src="sounds/basses/enel-bass.mp3" >}} |
 | Snore Bass           | {{< audio src="sounds/basses/snore-bass.mp3" >}} |
-
+| Liquid Bass           | {{< audio src="sounds/basses/liquid-bass.mp3" >}} |
 
 
 
@@ -244,6 +244,7 @@ menu:
 | Super Fast Click          | {{< audio src="sounds/clicks-clops-pops/super-fast-click.mp3" >}} |
 | Tennis Ball Pop           | {{< audio src="sounds/clicks-clops-pops/tennis-ball-pop.mp3" >}} |
 | Zekka H Has Click Roll    | {{< audio src="sounds/clicks-clops-pops/zekka-h-has-click-roll.mp3" >}} |
+| Dlow Click    | {{< audio src="sounds/clicks-clops-pops/dlow-click.mp3" >}} |
 | Clop                   |          |
 | Hollow Clop            |          |
 | Triple Hollow Clop     |          |
@@ -262,39 +263,36 @@ menu:
 |-----------------------|----------|
 | Vocal Roll/CTB Sound  | {{< audio src="sounds/others/vocal-roll(ctb).mp3" >}} |
 | Double Voice          | {{< audio src="sounds/others/double-sound.mp3" >}}          |
-| Inward Double Voice   |          |
-| Polyphonic Voice      | {{< audio src="sounds/others/polyphonic.mp3" >}}            |
-| Robot Voice           |          |
-| Zipper                |          |
-| D-Low Zipper          | {{< audio src="sounds/others/dlow-zipper.mp3" >}}           |
-| Inward Vocal Fry         |          |
-| Helium Zipper         |          |
-| Meow Squeak           |          |
-| Frosty Sound (Meow Squeak Roll)          | {{< audio src="sounds/others/frosty-sound.mp3" >}}           |
-| Hutch Squeak          |          |
-| D-Low Squeak          |          |
-| Siren                 |          |
-| Siren Roll            |          |
-| Two H Siren           |          |
-| Backspin Roll         |          |
-| Dubstep Roll          |          |
-| Bubble Roll           | {{< audio src="sounds/others/bubble-roll-dlow.mp3" >}}          |
-| Mad Wobble Roll       |          |
-| Inward Drag           |          |
-| Water Drop            | {{< audio src="sounds/others/water-drop.mp3" >}}         |
-| Dharni Water Drop     |          |
-| Pancar Motoru Sound   |          |
-| Dıdıdış Sound         |          |
-| Reverse Sound         |          |
-| Sega Sound            |  {{< audio src="sounds/others/sega-sound.mp3" >}}        |
-| Throat Tapping Sound  |          |
-| O Synth              |   {{< audio src="sounds/others/o-synth.mp3" >}}        |
-| Clown Horn            |          |
+| Inward Double Voice    | {{< audio src="sounds/other-sounds/inward-double-voice.mp3" >}} |
+
 | Baby Voice            |   {{< audio src="sounds/others/baby-voice.mp3" >}}        |
-| Donald Duck Sound     |          |
-| Machine Gun Sound     |          |
-| Shimmer               |          |
+| Duck Sound     |          {{< audio src="sounds/others/duck-sound.mp3" >}} |
+| Polyphonic Voice      | {{< audio src="sounds/others/polyphonic.mp3" >}}            |
+| O Synth              |   {{< audio src="sounds/others/o-synth.mp3" >}}        |
+| Bubble Roll           | {{< audio src="sounds/others/bubble-roll-dlow.mp3" >}}          |
+| Zipper                 | {{< audio src="sounds/other-sounds/zipper.mp3" >}} |
+| D-Low Zipper          | {{< audio src="sounds/others/dlow-zipper.mp3" >}}           |
+| Water Drop            | {{< audio src="sounds/others/water-drop.mp3" >}}         |
 | Pash Laser Sound      | {{< audio src="sounds/others/pash-laser.mp3" >}}         |
-| Inward Chant          |          |
+| Sega Sound            |  {{< audio src="sounds/others/sega-sound.mp3" >}}        |
+| Inward Vocal Fry      | {{< audio src="sounds/other-sounds/inward-vocal-fry.mp3" >}} |
+| Helium Zipper         | {{< audio src="sounds/other-sounds/helium-zipper.mp3" >}} |
+| Meow Squeak           | {{< audio src="sounds/other-sounds/meow-squeak.mp3" >}} |
+| Frosty Sound (Meow Squeak Roll)          | {{< audio src="sounds/others/frosty-sound.mp3" >}}           |
+| Hutch Squeak          | {{< audio src="sounds/other-sounds/hutch-squeak.mp3" >}} |
+| Robot Voice           | {{< audio src="sounds/other-sounds/robot-voice.mp3" >}} |
+| D-Low Squeak          | {{< audio src="sounds/other-sounds/d-low-squeak.mp3" >}} |
+| Siren                 | {{< audio src="sounds/other-sounds/siren.mp3" >}} |
+| Siren Roll            | {{< audio src="sounds/other-sounds/siren-roll.mp3" >}} |
+| Sonic Boom            | {{< audio src="sounds/other-sounds/sonic-boom.mp3" >}} |
+| Backspin Roll         | {{< audio src="sounds/other-sounds/backspin-roll.mp3" >}} |
+| Dubstep Roll          | {{< audio src="sounds/other-sounds/dubstep-roll.mp3" >}} |
+| Inward Drag           | {{< audio src="sounds/other-sounds/inward-drag.mp3" >}} |
+| Dharni Water Drop     | {{< audio src="sounds/other-sounds/dharni-water-drop.mp3" >}} |
+| Milky Sound   | {{< audio src="sounds/other-sounds/milky-sound.mp3" >}} |
+| Vocal Scratch         | {{< audio src="sounds/other-sounds/vocal-scratch.mp3" >}} |
+| Throat Tapping Sound  | {{< audio src="sounds/other-sounds/throat-tapping-sound.mp3" >}} |
+| Clown Horn            | {{< audio src="sounds/other-sounds/clown-horn.mp3" >}} |
+| Inward Chant          | {{< audio src="sounds/other-sounds/inward-chant.mp3" >}} |
 | 626 Effect (Stitch Special Sound)            | {{< audio src="sounds/others/626-effect.mp3" >}}         |
 
