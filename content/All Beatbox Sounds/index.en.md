@@ -223,17 +223,17 @@ menu:
 
 |     Hi Hats and Cymbals     | Samples         |
 |----------------------------|-----------------|
-| Brushed Cymbal             | {{< audio src="sounds/hi-hats-and-cymbals/brushed-cymbal.mp3" >}} |
-| Crash Cymbal               | {{< audio src="sounds/hi-hats-and-cymbals/crash-cymbal.mp3" >}} |
-| Duck Hi Hat                | {{< audio src="sounds/hi-hats-and-cymbals/duck-hi-hat.mp3" >}} |
-| Egg Shaker                 | {{< audio src="sounds/hi-hats-and-cymbals/egg-shaker.mp3" >}} |
-| F Hi Hat                   | {{< audio src="sounds/hi-hats-and-cymbals/f-hi-hat.mp3" >}} |
-| Fast Hi Hats               | {{< audio src="sounds/hi-hats-and-cymbals/fast-hi-hats.mp3" >}} |
-| Hi Hat                     | {{< audio src="sounds/hi-hats-and-cymbals/hi-hat.mp3" >}} |
+| Normal/Closed Hi Hat                     | {{< audio src="sounds/hi-hats-and-cymbals/hi-hat.mp3" >}} |
 | Open Hi Hat                | {{< audio src="sounds/hi-hats-and-cymbals/open-hi-hat.mp3" >}} |
 | Sliced Hi-Hat                 | {{< audio src="sounds/hi-hats-and-cymbals/sliced-hihat.mp3" >}} |
-| Mhs Cymbal              | {{< audio src="sounds/hi-hats-and-cymbals/mhs-cymbal.mp3" >}} |
+| F Hi Hat                   | {{< audio src="sounds/hi-hats-and-cymbals/f-hi-hat.mp3" >}} |
+| Fast Hi Hats               | {{< audio src="sounds/hi-hats-and-cymbals/fast-hi-hats.mp3" >}} |
+| Egg Shaker                 | {{< audio src="sounds/hi-hats-and-cymbals/egg-shaker.mp3" >}} |
+| Duck Hi Hat                | {{< audio src="sounds/hi-hats-and-cymbals/duck-hi-hat.mp3" >}} |
 | Trap High Hat              | {{< audio src="sounds/hi-hats-and-cymbals/trap-high-hat.mp3" >}} |
+| Crash Cymbal               | {{< audio src="sounds/hi-hats-and-cymbals/crash-cymbal.mp3" >}} |
+| Brushed Cymbal             | {{< audio src="sounds/hi-hats-and-cymbals/brushed-cymbal.mp3" >}} |
+| Mhs/Colaps Cymbal              | {{< audio src="sounds/hi-hats-and-cymbals/mhs-cymbal.mp3" >}} |
 
 
       
