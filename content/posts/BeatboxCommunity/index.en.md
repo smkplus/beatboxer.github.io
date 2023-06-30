@@ -86,11 +86,11 @@ Iran Beatbox Community, the official community of Beatbox Iran, was established 
 
 # Persian Beatbox
 
-Persia Beatbox was formed in 2023 with the aim of improving the quality and elevating the level of Beatbox in the country by Ali Nazaka, Ali Kamando, Mehdi Chaos, and Mohammad Taiko. They organize meetings, challenges, routines, and more, with the intention of bringing together Beatbox enthusiasts and those who love this style of music.
+Persian Beatbox was formed in 2023 with the aim of improving the quality and elevating the level of Beatbox in Iran by Ali Nazaka, Ali Kamando, Mehdi Chaos, and Mohammad Taiko. They organize meetings, challenges, routines, and more, with the intention of bringing together Beatbox enthusiasts and those who love this style of music.
 
-The primary goal of Persia Beatbox is to promote the global music culture and increase awareness of Beatbox among people. It also focuses on talent discovery and development among young individuals across the country.
+The primary goal of Persian Beatbox is to promote the global music culture and increase awareness of Beatbox among people. It also focuses on talent discovery and development among young individuals across the country.
 
-As the name suggests, Persia Beatbox carries an ancient and deep-rooted authenticity that symbolizes peace, friendship, unity, and solidarity.
+As the name suggests, Persian Beatbox carries an ancient and deep-rooted authenticity that symbolizes peace, friendship, unity, and solidarity.
 
 {{< style "text-align:right;font-size:30px" >}}
 
