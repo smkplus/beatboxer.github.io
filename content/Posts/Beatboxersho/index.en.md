@@ -59,6 +59,14 @@ toc:
 
 <br></br>
 
+{{< style "text-align:right;font-size:20px" >}}
+
+برای دانلود اپلیکیشن روی لینک زیر کلیک کنید
+
+{{< /style >}}
+
+<br></br>
+
 {{< link "https://cafebazaar.ir/app/com.smkgames.beatbox" "دانلود اپلیکیشن بیت باکسر شو" "" true >}}
 
 <br></br>
@@ -184,3 +192,40 @@ toc:
   <span style="display: block;padding-top: 57%"></span>
   <iframe src="https://www.aparat.com/video/video/embed/videohash/mLr3U/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" loading="lazy"></iframe>
 </div>
+
+<br></br>
+
+{{< style "text-align:right;font-size:20px" >}}
+
+هزینه دوره های آموزشی
+
+
+
+| نام محصول        | قیمت (تومان) |
+|------------------|---------------|
+| دوره مقدماتی     | 100,000       |
+| دوره پیشرفته     | 150,000       |
+| خرید همه پکیج ها | 390,000       |
+{{< /style >}}
+
+{{< style "text-align:right;font-size:20px" >}}
+
+هزینه صدا های آموزشی
+
+
+
+
+| نام محصول                                   | قیمت (تومان) |
+|-------------------------------|---------------|
+|  پک صداهای خاص | 50,000        |
+|  پک افکت های صوتی | 50,000        |
+|  پک سبک های بیت باکس          | 50,000        |
+|  پک صداهای مبتدی | 50,000        |
+|  پک سوت          | 80,000        |
+|  پک صداهای متوسط | 80,000        |
+|  پک صداهای Dlow | 100,000       |
+|  پک صداهای پیشرفته| 80,000        |
+
+{{< /style >}}
+
+
