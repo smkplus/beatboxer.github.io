@@ -103,15 +103,16 @@ menu:
 
 
 
-|     Instruments     |Samples|
-|---------------------|-------|
-| Trumpet / Trombone  | {{< audio src="sounds/instrument/trumpet-trombone.mp3" >}}|
-| Helium Trumpet      | {{< audio src="sounds/instrument/helium-trumpet.mp3" >}}|
-| Electric Guitar     | {{< audio src="sounds/instrument/electric-guitar.mp3" >}}|
-| Saxophone           | {{< audio src="sounds/instrument/saxophone.mp3" >}}|
-| Chinese Instrument | {{< audio src="sounds/instrument/chinese-Instrument.mp3" >}}|
-| Violin              | {{< audio src="sounds/instrument/violin.mp3" >}}|
-| Pizzicato Strings   | {{< audio src="sounds/instrument/pızzıcato-strıngs.mp3" >}}|
+| Instruments                  | Samples                                                      | Tutorials                                  |
+|------------------------------|--------------------------------------------------------------|--------------------------------------------|
+| Trumpet / Trombone           | {{< audio src="sounds/instrument/trumpet-trombone.mp3" >}}   |                                            |
+| Helium Trumpet               | {{< audio src="sounds/instrument/helium-trumpet.mp3" >}}     | [Tutorial 1](https://youtu.be/rEPX6bm3PDM) |
+| Electric Guitar              | {{< audio src="sounds/instrument/electric-guitar.mp3" >}}    | [Tutorial 1](https://youtu.be/QIWUJehz6n0) |
+| Saxophone                    | {{< audio src="sounds/instrument/saxophone.mp3" >}}          | [Tutorial 1](https://youtu.be/DjAUtsWYxE4) |
+| Guzheng (Chinese Instrument) | {{< audio src="sounds/instrument/chinese-Instrument.mp3" >}} | [Tutorial 1](https://youtu.be/NXNBrSU12Qo) |
+| Violin                       | {{< audio src="sounds/instrument/violin.mp3" >}}             | [Tutorial 1](https://youtu.be/R-utZM_PUf8) |
+| Pizzicato Strings            | {{< audio src="sounds/instrument/pızzıcato-strıngs.mp3" >}}  | [Tutorial 1](https://youtu.be/YIfmBU2IPxY) |
+
 
 
 
