@@ -32,16 +32,15 @@ toc:
 
 {{< /style >}}
 
-<br></br>
+
+
+![GBB23 SOLO](Result.png "GBB23 SOLO")
 
 {{< style "text-align:right;font-size:17px" >}}
 
 نتیجه بتل
 
 {{< /style >}}
-
-
-![GBB23 SOLO](Result.png "GBB23 SOLO")
 
 
 ![GBB23 SOLO](Solo.png "GBB23 SOLO")
