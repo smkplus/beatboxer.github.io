@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: GBB23
+title: GBB23 Solo
 date: 2023-06-22T16:04:22+08:00
 type: posts
 aliases:
@@ -17,6 +17,7 @@ tags:
   - GBB23
   - Grand Beatbox 2023
   - Grand Beatbox 23
+  - Solo
 categories:
   - Beatbox
 lightgallery: true
