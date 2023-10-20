@@ -29,13 +29,13 @@ toc:
 
 {{< style "text-align:right;font-size:17px" >}}
 
-لیست شرکت کنندگان بتل یک به یک
+لیست شرکت کنندگان بتل سولو
 
 {{< /style >}}
 
 
+![GBB23 SOLO](Solo.png "GBB23 SOLO")
 
-![GBB23 SOLO](Result.png "GBB23 SOLO")
 
 {{< style "text-align:right;font-size:17px" >}}
 
@@ -43,8 +43,8 @@ toc:
 
 {{< /style >}}
 
+![GBB23 SOLO](Result.png "GBB23 SOLO")
 
-![GBB23 SOLO](Solo.png "GBB23 SOLO")
 
 Wing VS Improver
 
