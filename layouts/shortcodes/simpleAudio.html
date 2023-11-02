@@ -1,0 +1,6 @@
+<audio controls>
+  {{ with .Get "src" }}
+  <source src="{{ . }}" type="audio/mpeg">
+  {{ end }}
+  Your browser does not support the audio element.
+</audio>
