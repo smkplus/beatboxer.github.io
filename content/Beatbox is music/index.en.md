@@ -8,7 +8,7 @@ aliases:
 author:
   name: Seyed Morteza Kamali
   link: https://github.com/smkplus
-description: Technical Pattern Tutorial.
+description: Beatbox is music
 resources:
   - name: featured-image
     src: featured-image.png
@@ -26,118 +26,116 @@ toc:
 ---
 ---
 
-
-
 #### Abo Ice - Question mark (Hiss Remix)
-{{< simpleAudio src="/music/hiss/abo ice - Question mark (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/abo ice - Question mark (Hiss Remix).mp3" >}}
 
 #### Alexinho - Dirty (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Alexinho - Dirty (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Alexinho - Dirty (Hiss Remix).mp3" >}}
 
 #### Alexinho - Punches (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Alexinho - Punches (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Alexinho - Punches (Hiss Remix).mp3" >}}
 
 #### AZEL - ANGRA (Hiss Remix)
-{{< simpleAudio src="/music/hiss/AZEL - ANGRA (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/AZEL - ANGRA (Hiss Remix).mp3" >}}
 
 #### CHIWAWA - Time is The Game (Hiss Remix)
-{{< simpleAudio src="/music/hiss/CHIWAWA - Time is The Game (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/CHIWAWA - Time is The Game (Hiss Remix).mp3" >}}
 
 #### Codfish - Swimming Like A Toad (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/Codfish - Swimming Like A Toad (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Codfish - Swimming Like A Toad (HypeerTime Remix).mp3" >}}
 
 #### Codfish - We Are Going Under (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Codfish - We Are Going Under (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Codfish - We Are Going Under (Hiss Remix).mp3" >}}
 
 #### D-low - Keep Sane (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/D-low - Keep Sane (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/D-low - Keep Sane (HypeerTime Remix).mp3" >}}
 
 #### D-Low - Kickback Battle Wildcard (Hiss Remix)
-{{< simpleAudio src="/music/hiss/D-Low - Kickback Battle Wildcard (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/D-Low - Kickback Battle Wildcard (Hiss Remix).mp3" >}}
 
 #### DEN - Feel It Still (Hiss Remix)
-{{< simpleAudio src="/music/hiss/DEN - Feel It Still (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/DEN - Feel It Still (Hiss Remix).mp3" >}}
 
 #### DEN - Moments I had (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/DEN - Moments I had (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/DEN - Moments I had (HypeerTime Remix).mp3" >}}
 
 #### DEN - Walked Away (Hiss Remix)
-{{< simpleAudio src="/music/hiss/DEN - Walked Away (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/DEN - Walked Away (Hiss Remix).mp3" >}}
 
 #### FootboxG - Cast Down (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/FootboxG - Cast Down (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/FootboxG - Cast Down (HypeerTime Remix).mp3" >}}
 
 #### FootboxG - To The Dogs (Hiss Remix)
-{{< simpleAudio src="/music/hiss/FootboxG - To The Dogs (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/FootboxG - To The Dogs (Hiss Remix).mp3" >}}
 
 #### Gene Shinozaki - Metamorphosis (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Gene Shinozaki - Metamorphosis (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Gene Shinozaki - Metamorphosis (Hiss Remix).mp3" >}}
 
 #### Hiss - History (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/Hiss - History (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Hiss - History (HypeerTime Remix).mp3" >}}
 
 #### INDICATOR - I'M AN ALIEN (Hiss Remix)
-{{< simpleAudio src="/music/hiss/INDICATOR - I'M AN ALIEN (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/INDICATOR - I'M AN ALIEN (Hiss Remix).mp3" >}}
 
 #### King Inertia - GBB21 Elimination (Hiss Remix)
-{{< simpleAudio src="/music/hiss/King Inertia - GBB21 Elimination (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/King Inertia - GBB21 Elimination (Hiss Remix).mp3" >}}
 
 #### King Inertia - Reckless (Hiss Remix)
-{{< simpleAudio src="/music/hiss/King Inertia - Reckless (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/King Inertia - Reckless (Hiss Remix).mp3" >}}
 
 #### M-Age - Worthless (Hiss Remix)
-{{< simpleAudio src="/music/hiss/M-Age - Worthless (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/M-Age - Worthless (Hiss Remix).mp3" >}}
 
 #### Mad Twinz - Say my name (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Mad Twinz - Say my name (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Mad Twinz - Say my name (Hiss Remix).mp3" >}}
 
 #### MADOX - BELIEVE ME (Hiss Remix)
-{{< simpleAudio src="/music/hiss/MADOX - BELIEVE ME (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/MADOX - BELIEVE ME (Hiss Remix).mp3" >}}
 
 #### NaPoM - DIP (Hiss Remix)
-{{< simpleAudio src="/music/hiss/NaPoM - DIP (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/NaPoM - DIP (Hiss Remix).mp3" >}}
 
 #### NaPoM - MIND (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/NaPoM - MIND (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/NaPoM - MIND (HypeerTime Remix).mp3" >}}
 
 #### NaPoM - Roll Like This (Hiss Remix)
-{{< simpleAudio src="/music/hiss/NaPoM - Roll Like This (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/NaPoM - Roll Like This (Hiss Remix).mp3" >}}
 
 #### Reeps One - Move (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Reeps One - Move (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Reeps One - Move (Hiss Remix).mp3" >}}
 
 #### RIVER' - By Ourselves (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/RIVER' - By Ourselves (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/RIVER' - By Ourselves (HypeerTime Remix).mp3" >}}
 
 #### RIVER' - My Way (Hiss Remix)
-{{< simpleAudio src="/music/hiss/RIVER' - My Way (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/RIVER' - My Way (Hiss Remix).mp3" >}}
 
 #### SHOW-GO - Jasmine (Hiss Remix)
-{{< simpleAudio src="/music/hiss/SHOW-GO - Jasmine (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/SHOW-GO - Jasmine (Hiss Remix).mp3" >}}
 
 #### Stitch - Feels Like Nothing (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Stitch - Feels Like Nothing (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Stitch - Feels Like Nothing (Hiss Remix).mp3" >}}
 
 #### Trung Bao - You Don't Wanna Know (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Trung Bao - You Don't Wanna Know (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Trung Bao - You Don't Wanna Know (Hiss Remix).mp3" >}}
 
 #### Uniteam (Alem X Alexinho) - Back To The Old School (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Uniteam (Alem X Alexinho) - Back To The Old School (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Uniteam (Alem X Alexinho) - Back To The Old School (Hiss Remix).mp3" >}}
 
 #### Vocodah - Headbangers (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Vocodah - Headbangers (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Vocodah - Headbangers (Hiss Remix).mp3" >}}
 
 #### Vocodah - RIDDIM GODS ft. Pwad, Azel, Tomazacre, Gale, Tyladubya (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Vocodah - RIDDIM GODS ft. Pwad, Azel, Tomazacre, Gale, Tyladubya (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Vocodah - RIDDIM GODS ft. Pwad, Azel, Tomazacre, Gale, Tyladubya (Hiss Remix).mp3" >}}
 
 #### WING - BIG FAT (Hiss Remix)
-{{< simpleAudio src="/music/hiss/WING - BIG FAT (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/WING - BIG FAT (Hiss Remix).mp3" >}}
 
 #### WING - Dancing with a stranger (Hiss Remix)
-{{< simpleAudio src="/music/hiss/WING - Dancing with a stranger (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/WING - Dancing with a stranger (Hiss Remix).mp3" >}}
 
 #### WING - Killing Me Softly (HypeerTime Remix)
-{{< simpleAudio src="/music/hiss/WING - Killing Me Softly (HypeerTime Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/WING - Killing Me Softly (HypeerTime Remix).mp3" >}}
 
 #### Zekka - Yeli Town (Hiss Remix)
-{{< simpleAudio src="/music/hiss/Zekka - Yeli Town (Hiss Remix).mp3" >}}
+{{< simpleAudio src="music/hiss/Zekka - Yeli Town (Hiss Remix).mp3" >}}
