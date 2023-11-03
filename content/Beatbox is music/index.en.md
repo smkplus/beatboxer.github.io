@@ -26,6 +26,11 @@ toc:
 ---
 ---
 
+<meting-js
+server="local"
+type="playlist"
+playlist="patterns/beginner/1.mp3,patterns/beginner/2.mp3,patterns/beginner/3.mp3">
+</meting-js>
 
 #### Abo Ice - Question mark
 {{< simpleAudio src="music/hiss/abo ice - Question mark (Hiss Remix).mp3" >}}
