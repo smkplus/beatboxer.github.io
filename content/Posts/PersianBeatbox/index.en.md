@@ -49,10 +49,9 @@ toc:
   auto: false
 ---
 
+<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/sXFjD/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 {{< style "text-align:right;font-size:17px" >}}
-
-<style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/sXFjD/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
 <h3> درباره پرشین بیت باکس </h3>
 
@@ -85,8 +84,14 @@ toc:
 
 {{< style "text-align:right;font-size:17px" >}}
 
-Circle (دایره) + Jam (دورهمی)
-= Circle Jam(دورهم نوازی)
+{{< style "text-align:right;font-size:17px" >}}
+
+<h3> سیرکل جم </h3>
+
+
+{{< /style >}}
+
+Circle(دایره)+Jam(دورهمی)=CircleJam(دورهم نوازی)
 
 اصطلاح جم به توصیف گردهم‌آیی‌های غیررسمی اشاره دارد که موسیقیدانان یا هنرمندان در آنجا به صورت داوطلبانه به اجرای مهارت‌های خود می‌پردازند
 
