@@ -51,14 +51,14 @@ toc:
 
 <style>.h_iframe-aparat_embed_frame{position:relative;}.h_iframe-aparat_embed_frame .ratio{display:block;width:100%;height:auto;}.h_iframe-aparat_embed_frame iframe{position:absolute;top:0;left:0;width:100%;height:100%;}</style><div class="h_iframe-aparat_embed_frame"><span style="display: block;padding-top: 57%"></span><iframe src="https://www.aparat.com/video/video/embed/videohash/sXFjD/vt/frame"  allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
 
-{{< style "text-align:right;font-size:17px" >}}
+{{< style "text-align:right;font-size:15px" >}}
 
 <h3> درباره پرشین بیت باکس </h3>
 
 
 {{< /style >}}
 
-{{< style "text-align:right;font-size:17px" >}}
+{{< style "text-align:right;font-size:15px" >}}
 
 
 
@@ -81,21 +81,16 @@ toc:
 <br></br>
 
 
+{{< style "text-align:right;font-size:15px" >}}
 
-{{< style "text-align:right;font-size:17px" >}}
+<h3> سیرکل جم یا دورهم نوازی </h3>
 
-{{< style "text-align:right;font-size:17px" >}}
-
-<h3> سیرکل جم </h3>
-
-
-{{< /style >}}
 
 Circle(دایره)+Jam(دورهمی)=CircleJam(دورهم نوازی)
 
 اصطلاح جم به توصیف گردهم‌آیی‌های غیررسمی اشاره دارد که موسیقیدانان یا هنرمندان در آنجا به صورت داوطلبانه به اجرای مهارت‌های خود می‌پردازند
 
-دورهم‌ نوازی یا سِرکل جم در بیت‌باکس به معنای دور هم جمع شدن یک گروه از بیت‌باکسر ها به صورت دایره ای است که به ترتیب مهارت‌های خود را به صورت اختیاری نمایش می‌دهند. این جمع‌آوری‌ها ریشه‌های خود را در فرهنگ هیپ‌هاپ دارند و بخش حیاتی از تاریخ بیت‌باکسینگ را تشکیل می‌دهند، به بیت‌باکسینگ‌ها فرصت می‌دهند تا مهارت‌های خود را در یک محیط همکاری‌ای و خلاق نشان دهند و از آنها برای توسعه و نمایش استعدادهای خود استفاده کنند
+دورهم‌ نوازی یا سیرکل جم در بیت‌باکس به معنای دور هم جمع شدن یک گروه از بیت‌باکسر ها به صورت دایره ای است که به ترتیب مهارت‌های خود را به صورت اختیاری نمایش می‌دهند. این جمع‌آوری‌ها ریشه‌های خود را در فرهنگ هیپ‌هاپ دارند و بخش حیاتی از تاریخ بیت‌باکسینگ را تشکیل می‌دهند، به بیت‌باکسینگ‌ها فرصت می‌دهند تا مهارت‌های خود را در یک محیط همکاری‌ای و خلاق نشان دهند و از آنها برای توسعه و نمایش استعدادهای خود استفاده کنند
 {{< /style >}}
 
 
