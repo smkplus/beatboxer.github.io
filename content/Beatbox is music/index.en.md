@@ -26,13 +26,6 @@ toc:
 ---
 ---
 
-{{< music
-playlist="patterns/beginner/1.mp3,patterns/beginner/2.mp3,patterns/beginner/3.mp3"
-autoplay="true"
-volume="1.0"
-theme="#FF5733"
->}}
-
 
 #### Abo Ice - Question mark
 {{< simpleAudio src="music/hiss/abo ice - Question mark (Hiss Remix).mp3" >}}
