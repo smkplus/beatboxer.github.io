@@ -26,7 +26,12 @@ toc:
 ---
 ---
 
-{{< music url="patterns/beginner/1.mp3" name="Pattern 1" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+{{< music
+playlist="patterns/beginner/1.mp3,patterns/beginner/2.mp3,patterns/beginner/3.mp3"
+autoplay="true"
+volume="1.0"
+theme="#FF5733"
+>}}
 
 
 #### Abo Ice - Question mark
