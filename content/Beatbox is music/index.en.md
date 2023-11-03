@@ -26,6 +26,9 @@ toc:
 ---
 ---
 
+{{< music url="patterns/beginner/1.mp3" name="Pattern 1" artist="" cover="icons/pattern.jpg" autoplay="true" volume="1.0" >}}
+
+
 #### Abo Ice - Question mark (Hiss Remix)
 {{< simpleAudio src="music/hiss/abo ice - Question mark (Hiss Remix).mp3" >}}
 
