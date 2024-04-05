@@ -34,19 +34,71 @@ menu:
 ---
 
 
+## Visualizing Beatbox Sounds
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+</style>
+</head>
+<body>
+
+<p>Unlock the world of beatboxing with a visual PDF guide. Download now!</p>
+
+<a href="Beatbox_Sounds.pdf" download>
+  <button class="btn"><i class="fa fa-download"></i> Download PDF</button>
+</a>
+
+</body>
+</html>
+
+
+
+
+## Whistles Category
+
+<p> </p>
+
+{{< youtube AzILUWxxCfE >}}
+
+<p> </p>
+
+{{< youtube JRP3jsZOZz4 >}}
+
 
 
 |      Whistles       | Samples                                            |
 |---------------------|----------|
-| Normal Whistle             | {{< audio src="sounds/whistles/whistle.mp3" >}}         |
+| Normal/Pucker Whistle             | {{< audio src="sounds/whistles/whistle.mp3" >}}         |
 | Cricket Whistle     | {{< audio src="sounds/whistles/cricket-whistle.mp3" >}}         |
 | Bolbol Whistle     | {{< audio src="sounds/whistles/bolbol-whistle.mp3" >}}         |
+| Beat Rhino Whistle             | {{< audio src="sounds/whistles/beat-rhino-whistle.mp3" >}}         |
+| BallZee Whistle             | {{< audio src="sounds/whistles/ball-zee-whistle.mp3" >}}         |
 | Laser Whistle       | {{< audio src="sounds/whistles/laser-whistle.mp3" >}}         |
 | Inward Teeth Whistle| {{< audio src="sounds/whistles/inward-teeth-whistle.mp3" >}}         |
 | Outward Teeth Whistle       | {{< audio src="sounds/whistles/outward-teeth-whistle.mp3" >}}         |
 | Pacmax/Whale/Train Whistle      | {{< audio src="sounds/whistles/pacmax-whale-train-whistle.mp3" >}}         |
 | Recorder Whistle    | {{< audio src="sounds/whistles/recorder-whistle.mp3" >}}         |
 | Bird Whistle        | {{< audio src="sounds/whistles/bird-whistle.mp3" >}}         |
+| Finger Whistle             | {{< audio src="sounds/whistles/finger-whistle.mp3" >}}         |
 | Dekoy Whistle| {{< audio src="sounds/whistles/dekoy-whistle.mp3" >}}         |
 | Heartzel/Raik Whistle    | {{< audio src="sounds/whistles/ralik-whistle.mp3" >}}         |
 | Vortex Whistle      | {{< audio src="sounds/whistles/vortex-whistle.mp3" >}}         |
@@ -54,8 +106,17 @@ menu:
 | Hollow Whistle      | {{< audio src="sounds/whistles/hollow-whistle.mp3" >}}         |
 | Tongue Flute      | {{< audio src="sounds/whistles/tongue-flute.mp3" >}}         |
 | Cyclone Whistle| {{< audio src="sounds/whistles/cyclone-whistle.mp3" >}}         |
+| Whisper/Zekka Whistle             | {{< audio src="sounds/whistles/whisper-zekka-whistle.mp3" >}}         |
+| Whale Whistle            | {{< audio src="sounds/whistles/whale-whistle.mp3" >}}         |
+| Double Whistle             | {{< audio src="sounds/whistles/double-voice.mp3" >}}         |
+| Helium Whistle             | {{< audio src="sounds/whistles/helium-whistle.mp3" >}}         |
+| Hand Whistle             | {{< audio src="sounds/whistles/hand-whistle.mp3" >}}         |
 
+## Basses Category
 
+<p> </p>
+
+{{< youtube wLHbpXLUy-M >}}
 
 |      Basses     | Samples         |
 |-----------------------|----------|
@@ -95,26 +156,33 @@ menu:
 | Enel's Bass          | {{< audio src="sounds/basses/enel-bass.mp3" >}} |
 | Snore Bass           | {{< audio src="sounds/basses/snore-bass.mp3" >}} |
 | Liquid Bass           | {{< audio src="sounds/basses/liquid-bass.mp3" >}} |
+| Cannon Bass           | {{< audio src="sounds/basses/cannon-bass.mp3" >}} |
 
 
 
 
-
-
+## Instruments Category
 
 
 | Instruments                  | Samples                                                      | Tutorials                                  |
 |------------------------------|--------------------------------------------------------------|--------------------------------------------|
 | Trumpet / Trombone           | {{< audio src="sounds/instrument/trumpet-trombone.mp3" >}}   |                                            |
-| Helium Trumpet               | {{< audio src="sounds/instrument/helium-trumpet.mp3" >}}     | [Tutorial 1](https://youtu.be/rEPX6bm3PDM) |
-| Electric Guitar              | {{< audio src="sounds/instrument/electric-guitar.mp3" >}}    | [Tutorial 1](https://youtu.be/QIWUJehz6n0) |
-| Saxophone                    | {{< audio src="sounds/instrument/saxophone.mp3" >}}          | [Tutorial 1](https://youtu.be/DjAUtsWYxE4) |
-| Guzheng (Chinese Instrument) | {{< audio src="sounds/instrument/chinese-Instrument.mp3" >}} | [Tutorial 1](https://youtu.be/NXNBrSU12Qo) |
-| Violin                       | {{< audio src="sounds/instrument/violin.mp3" >}}             | [Tutorial 1](https://youtu.be/R-utZM_PUf8) |
-| Pizzicato Strings            | {{< audio src="sounds/instrument/pızzıcato-strıngs.mp3" >}}  | [Tutorial 1](https://youtu.be/YIfmBU2IPxY) |
+| Helium Trumpet               | {{< audio src="sounds/instrument/helium-trumpet.mp3" >}}     | [Link1](https://youtu.be/rEPX6bm3PDM) |
+| Electric Guitar              | {{< audio src="sounds/instrument/electric-guitar.mp3" >}}    | [Link1](https://youtu.be/QIWUJehz6n0) |
+| Saxophone                    | {{< audio src="sounds/instrument/saxophone.mp3" >}}          | [Link1](https://youtu.be/DjAUtsWYxE4) |
+| Guzheng (Chinese Instrument) | {{< audio src="sounds/instrument/chinese-Instrument.mp3" >}} | [Link1](https://youtu.be/NXNBrSU12Qo) |
+| Violin                       | {{< audio src="sounds/instrument/violin.mp3" >}}             | [Link1](https://youtu.be/R-utZM_PUf8) |
+| Pizzicato Strings            | {{< audio src="sounds/instrument/pızzıcato-strıngs.mp3" >}}  | [Link1](https://youtu.be/YIfmBU2IPxY) |
 
 
 
+
+## Snares Category
+
+
+<p> </p>
+
+{{< youtube g9W_t2-izaQ >}}
 
 
 
@@ -145,7 +213,7 @@ menu:
 | Esh Snare             | {{< audio src="sounds/snares/esh-snare.mp3" >}} |
 | Peh Snare             | {{< audio src="sounds/snares/peh-snare.mp3" >}} |
 | River Snare             | {{< audio src="sounds/snares/river-snare.mp3" >}} |
-|Category #2 Two Sound Combo|
+|Category ##2 Two Sound Combo|
 | Blade Snare           | {{< audio src="sounds/snares/blade-snare.mp3" >}} |
 | Vocalized Inward K    | {{< audio src="sounds/snares/vocalized-inward-k.mp3" >}} |
 | Double Inward Snare   | {{< audio src="sounds/snares/double-inward-snare.mp3" >}}|
@@ -167,14 +235,20 @@ menu:
 | Poly Spit Snare       | {{< audio src="sounds/snares/poly-spit-snare.mp3" >}} |
 | Huckle Snare          | {{< audio src="sounds/snares/huckle-snare.mp3" >}} |
 | Distorted Spit Snare  | {{< audio src="sounds/snares/distorted-spit-snare.mp3" >}} |
-|Category #3 Three Sound Combo|
+|Category ##3 Three Sound Combo|
 | Mad Cough Snare       | {{< audio src="sounds/snares/mad-cough-snare.mp3" >}} |
 | Vocalized Club Snare  | {{< audio src="sounds/snares/vocalized-club-snare.mp3" >}} |
 | Vocalized Sneeze Spit Snare | {{< audio src="sounds/snares/vocalized-sneeze-spit-snare.mp3" >}} |
 | Rolled Inward K Snare | {{< audio src="sounds/snares/rolled-inward-k-snare.mp3" >}} |
-| Category #4 Special   |          |
+| Category ##4 Special   |          |
 | Poh Snare             | {{< audio src="sounds/snares/poh-snare.mp3" >}} |
 
+
+## Liproll Category
+
+<p> </p>
+
+{{< youtube eF1p-r7M8xg >}}
 
 |        Liproll Sounds       | Samples        |
 |----------------------------|----------|
@@ -200,6 +274,8 @@ menu:
 | Double Liproll             | {{< audio src="sounds/liprolls/double-liproll.mp3" >}} |
 
 
+## Kicks Category
+
 
 |        Kick          | Samples         |
 |----------------------|-----------------|
@@ -211,6 +287,7 @@ menu:
 | Brb Kick Roll       | {{< audio src="sounds/kick/brb-kick-roll.mp3" >}} |
 
 
+## Hi Hats and Cymbals Category
 
 |     Hi Hats and Cymbals     | Samples         |
 |----------------------------|-----------------|
@@ -227,6 +304,7 @@ menu:
 | Mhs/Colaps Cymbal              | {{< audio src="sounds/hi-hats-and-cymbals/mhs-cymbal.mp3" >}} |
 
 
+## Clicks, Clops, and Pops Category
       
 | Clicks, Clops, and Pops     |          |
 |---------------------------|----------|
@@ -241,9 +319,11 @@ menu:
 | Hollow Clop            | {{< audio src="sounds/clicks-clops-pops/hollow-clop.mp3" >}}         |
 
 
+## Other Sounds Category
 
 |      Other Sounds     | Samples  |
 |-----------------------|----------|
+| ABX Roll           | {{< audio src="sounds/other-sounds/abx-roll.mp3" >}}         |
 | Vocal Roll/CTB Sound  | {{< audio src="sounds/other-sounds/vocal-roll(ctb).mp3" >}} |
 | Double Voice          | {{< audio src="sounds/other-sounds/double-sound.mp3" >}}          |
 | Inward Double Voice    | {{< audio src="sounds/other-sounds/inward-double-voice.mp3" >}} |
