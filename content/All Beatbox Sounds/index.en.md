@@ -105,6 +105,7 @@ menu:
 | Calexy Whistle      | {{< audio src="sounds/whistles/calexy-babeli whistle.mp3" >}}         |
 | Hollow Whistle      | {{< audio src="sounds/whistles/hollow-whistle.mp3" >}}         |
 | Tongue Flute      | {{< audio src="sounds/whistles/tongue-flute.mp3" >}}         |
+| Throat Whistle             | {{< audio src="sounds/whistles/throat-whistle.mp3" >}}         |
 | Cyclone Whistle| {{< audio src="sounds/whistles/cyclone-whistle.mp3" >}}         |
 | Whisper/Zekka Whistle             | {{< audio src="sounds/whistles/whisper-zekka-whistle.mp3" >}}         |
 | Whale Whistle            | {{< audio src="sounds/whistles/whale-whistle.mp3" >}}         |
@@ -324,6 +325,8 @@ menu:
 |      Other Sounds     | Samples  |
 |-----------------------|----------|
 | ABX Roll           | {{< audio src="sounds/other-sounds/abx-roll.mp3" >}}         |
+| ABX Polyphonic           | {{< audio src="sounds/other-sounds/abx-polyphonic.mp3" >}}         |
+| Bird/Beatfox/TrungBao Squeak           | {{< audio src="sounds/other-sounds/bird-squeak.mp3" >}}         |
 | Vocal Roll/CTB Sound  | {{< audio src="sounds/other-sounds/vocal-roll(ctb).mp3" >}} |
 | Double Voice          | {{< audio src="sounds/other-sounds/double-sound.mp3" >}}          |
 | Inward Double Voice    | {{< audio src="sounds/other-sounds/inward-double-voice.mp3" >}} |
